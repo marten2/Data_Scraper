@@ -34,12 +34,13 @@ def extract_rooftrack():
         # HTML in DOM representation
         dom = DOM(html)
 
+        results = dom.by_tag("div.row ResultBox ClickRow")
         # Check voor lege pagina
-        if not len(dom.by_tag("div.row ResultBox ClickRow")):
+        if not len(results):
             break
 
         print "Page ",i+1
-        for e in dom.by_tag("div.row ResultBox ClickRow"):
+        for e in results:
             l = []
 
             # Plaats
@@ -150,13 +151,14 @@ def extract_pararius():
 
         print "Page ",i+1
 
-        for x, e in enumerate(results):
+        for e in results:
             l = []
-            
-            comb_l = e("div.addressTitle a")[0]
+
+            # Sommige woningen zijn dode links op pararius
+            try: comb_l = e("div.addressTitle a")[0]
+            except: continue
             comb_s = comb_l.content.split('-')
 
-            print x
             # Straat
             straat = ''.join(comb_s[0].split(' ')[1:])
             

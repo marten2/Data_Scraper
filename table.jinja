@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}" />
+</head>
+
+<body>
+
+<table>
+{%- for row in items|batch(3, '&nbsp;') %}
+  <tr>
+  {%- for column in row %}
+    <td>{{ column }}</td>
+  {%- endfor %}
+  </tr>
+{%- endfor %}
+</table>
+
+</body>
+</html>
