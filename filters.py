@@ -5,14 +5,14 @@ This is a helper file with filter codes for appartement scraper.py
 '''
 import re
 
-def word_filter(words_list, appartements_list):
+def word_filter(words_list, appartement_list):
 	'''
 	words_list is a list of words to filter everythin on.
 	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
 	'''
 	output = []
 	index = 0
-	for appartement in appartements_list:
+	for appartement in appartement_list:
 		add_appartement = True
 		
 		for data in appartement:
@@ -21,13 +21,13 @@ def word_filter(words_list, appartements_list):
 					add_appartement = False
 		
 		if add_appartement:
-			output.append(appartements_list[index])
+			output.append(appartement_list[index])
 		
 		index += 1
 
 	return output
 
-def size_filter(min_size, appartements_list):  #2 4
+def size_filter(min_size, appartement_list):  #2 4
 	'''
 	min_size is the minimum square meters of the house
 	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
@@ -47,7 +47,7 @@ def size_filter(min_size, appartements_list):  #2 4
 		index += 1
 	return output
 
-def room_filter(min_rooms, appartements_list):  #2 4
+def room_filter(min_rooms, appartement_list):  #2 4
 	'''
 	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
 	'''
