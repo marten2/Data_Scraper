@@ -200,6 +200,8 @@ def get_appartements():
 
 if __name__ == '__main__':
 
+    appartement_l = get_appartements()
+    
     # Write the CSV file to disk (including a header)
     with open(OUTPUT_CSV, 'wb') as output_file:
         save_csv(output_file, appartement_l)
