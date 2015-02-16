@@ -42,12 +42,12 @@ def size_filter(min_size, appartements_list):  #2 4
 			print inst
 			output.append(appartement_list[index])
 			continue
-		if size_int > min_size:
+		if size_int >= min_size:
 			output.append(appartement_list[index])
 		index += 1
 	return output
 
-def rooms_filter(min_rooms, appartements_list):  #2 4
+def room_filter(min_rooms, appartements_list):  #2 4
 	'''
 	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
 	'''
@@ -61,7 +61,7 @@ def rooms_filter(min_rooms, appartements_list):  #2 4
 			print inst
 			output.append(appartement_list[index])
 			continue
-		if size_int > rooms:
+		if size_int >= min_rooms:
 			output.append(appartement_list[index])
 		index += 1
 	return output
@@ -75,3 +75,4 @@ if __name__ == '__main__':
 	word_list = ['job']
 	print word_filter(word_list, appartement_list)
 	print size_filter(65, appartement_list)
+	print room_filter(3, appartement_list)

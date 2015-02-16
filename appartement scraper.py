@@ -6,6 +6,7 @@ This script scrapes IMDB and outputs a CSV file with highest ranking tv series.
 '''
 # IF YOU WANT TO TEST YOUR ATTEMPT, RUN THE test-tvscraper.py SCRIPT.
 import csv
+import filters
 
 from pattern.web import URL, DOM
 
@@ -160,7 +161,7 @@ def extract_pararius():
             except: l.append("")
             # Opp
             try: l.append(comb2_s[3].split(' ')[1]+"m")
-            except: l.append("0m")
+            except: l.append("m")
             # Makelaar
             l.append(e("span.spannend a")[0].content)
             # Huur
@@ -199,6 +200,7 @@ if __name__ == '__main__':
     for appartement in extract_pararius():
         appartement_l.append(appartement)
 
+    size_filter
     # Write the CSV file to disk (including a header)
     with open(OUTPUT_CSV, 'wb') as output_file:
         save_csv(output_file, appartement_l)
