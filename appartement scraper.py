@@ -152,33 +152,42 @@ def extract_pararius():
         for e in results:
             l = []
             
-            print len(e("div.content"))
+            comb_l = e("div.addressTitle a")[0]
+            comb_s = comb_l.content.split('-')
 
             # Straat
-            l.append(e("h6")[0].content)
-
-            comb = e("p.eigenschappen")[0].content.split('<br />')
-            soortKamer = comb[0].split(' ')
+            print comb_s
+            straat = ""
+            for s in comb_s[0].split(' ')[1:]:
+                straat += s + ' '
+            print straat
+            l.append(straat)
             
             # Soort
-            l.append(soortKamer[0].strip())
+            l.append(comb_s[0].split(' ')[0])
+
+            comb2 = e("div.deform")[0].content
+            comb2_s = comb2.split('-')
             # Kamers
-            l.append(soortKamer[1])
+            l.append(comb2_s[2].strip()[0])
             # Opp
-            opp = comb[1]
-            l.append(opp.split('&')[0].strip())
+            l.append(comb2_s[3].split(' ')[1]+"m")
             # Makelaar
-            makelaar = e("small")[0].content
-            l.append(makelaar.strip('Aangeboden door '))
+            l.append(e("span.spannend a")[0].content)
             # Huur
-            huur = e("strong")[0].content.encode("ascii","ignore")
-            l.append(huur.strip())
+            l.append(e("strong.price b")[0].content)
+            # Link
+            link = comb_l.attr['href']
+            if not 'http' in link: link = "http://www.pararius.nl"+link
+            l.append(link)
             
             ascii_l = []
             for c in l:
                 ascii_l.append(c.encode("ascii","ignore"))
 
+            print ascii_l
             appartement_l.append(ascii_l)
+
     return appartement_l
 
 def save_csv(f, appartement_l):
