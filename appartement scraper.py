@@ -150,19 +150,15 @@ def extract_pararius():
 
         print "Page ",i+1
 
-        for e in results:
+        for x, e in enumerate(results):
             l = []
             
             comb_l = e("div.addressTitle a")[0]
             comb_s = comb_l.content.split('-')
 
+            print x
             # Straat
-            print comb_s
-            straat = ""
-            for s in comb_s[0].split(' ')[1:]:
-                straat += s + ' '
-            print straat
-            l.append(straat)
+            straat = ''.join(comb_s[0].split(' ')[1:])
             
             # Soort
             l.append(comb_s[0].split(' ')[0])
@@ -189,7 +185,6 @@ def extract_pararius():
             for c in l:
                 ascii_l.append(c.encode("ascii","ignore"))
 
-            print ascii_l
             appartement_l.append(ascii_l)
 
     return appartement_l
