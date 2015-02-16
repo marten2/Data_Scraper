@@ -27,7 +27,7 @@ def word_filter(words_list, appartement_list):
 
 	return output
 
-def size_filter(min_size, appartement_list):  #2 4
+def size_filter(min_size, appartement_list):  
 	'''
 	min_size is the minimum square meters of the house
 	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
@@ -64,6 +64,26 @@ def room_filter(min_rooms, appartement_list):  #2 4
 			output.append(appartement_list[index])
 			continue
 		if size_int >= min_rooms:
+			output.append(appartement_list[index])
+		index += 1
+	return output
+
+def price_filter(max_price, appartement_list):  #2 4
+	'''
+	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
+	'''
+	output = []
+	index = 0
+	for appartement in appartement_list:
+		try:
+			size_int = int(re.findall('\d+', appartement[5])[0])
+		except Exception as inst:
+			print type(inst)
+			print inst
+			print "rooms\n"
+			output.append(appartement_list[index])
+			continue
+		if size_int <= max_price:
 			output.append(appartement_list[index])
 		index += 1
 	return output

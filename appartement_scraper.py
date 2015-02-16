@@ -186,17 +186,26 @@ def save_csv(f, appartement_l):
     for l in appartement_l:
         writer.writerow(l)
 
+def aply_filters(appartement_l):
+    output = filters.size_filter(60, appartement_l)
+    output = filters.room_filter(3, output)
+    output = filters.price_filter(1500, output)
+    return output
+
 def get_appartements():
     # Extract the appartements
     appartement_l = []
     print "Extracting Rooftrack.nl..."
-    for appartement in extract_rooftrack():
+    rooftrack_list = aply_filters(extract_rooftrack())
+    for appartement in rooftrack_list:
         appartement_l.append(appartement)
     print "Extracting Stadgenoot.nl..."
-    for appartement in extract_stadgenoot():
+    stadgenoot_list = aply_filters(extract_stadgenoot())
+    for appartement in stadgenoot_list:
         appartement_l.append(appartement)
     print "Extracting Pararius.nl..."
-    for appartement in extract_pararius():
+    pararius_list = aply_filters(extract_stadgenoot())
+    for appartement in pararius_list:
         appartement_l.append(appartement)  
 
     return appartement_l  
@@ -204,8 +213,6 @@ def get_appartements():
 if __name__ == '__main__':
 
     appartement_l = get_appartements()
-    appartement_l = filters.size_filter(60, appartement_l)
-    appartement_l = filters.room_filter(3, appartement_l)
 
     # Write the CSV file to disk (including a header)
     with open(OUTPUT_CSV, 'wb') as output_file:
