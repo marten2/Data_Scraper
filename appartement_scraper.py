@@ -1,16 +1,13 @@
 #!/usr/bin/env python
 # Name:
 # Student number:
-'''
-This script scrapes IMDB and outputs a CSV file with highest ranking tv series.
-'''
 # IF YOU WANT TO TEST YOUR ATTEMPT, RUN THE test-tvscraper.py SCRIPT.
 import csv
 import filters
 
 from pattern.web import URL, DOM
 
-OUTPUT_CSV = 'appartementen.csv'
+max_pages = 20
 
 
 def extract_rooftrack():    
@@ -20,7 +17,7 @@ def extract_rooftrack():
     '''
     appartement_l = []
     
-    for i in range(50):
+    for i in range(max_pages):
         TARGET_URL = "http://www.rooftrack.nl/Zoeken/geo-52;3651323157895,4;88880105263158,0,Amsterdam/huur-0-9999/order-prijsmin,DESC/page-"+str(i)+",20"
 
         url = URL(TARGET_URL)
@@ -122,7 +119,7 @@ def extract_pararius():
     '''
     appartement_l = []
     
-    for i in range(50):
+    for i in range(max_pages):
         TARGET_URL = "http://www.pararius.nl/huurwoningen/amsterdam/0-2000/page-"+str(i+1)
 
         url = URL(TARGET_URL)
@@ -147,15 +144,15 @@ def extract_pararius():
             comb_s = comb_l.content.split('-')
 
             # Straat
-            straat = ''.join(comb_s[0].split(' ')[1:])
-            
+            straat = ' '.join(comb_s[0].split(' ')[1:])
+            l.append(straat)
+
             # Soort
             l.append(comb_s[0].split(' ')[0])
 
             comb2 = e("div.deform")[0].content
             comb2_s = comb2.split('-')
-            # Soort
-            l.append("")
+            
             # Kamers
             try: l.append(comb2_s[2].strip()[0])
             except: l.append("")
