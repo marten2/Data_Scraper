@@ -1,811 +1,180 @@
-Straat,Soort,Oppervlak,Makelaar,Huurprijs,Link
-Appartement,1,85m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176429/westerdoksdijk
-Appartement,2,140m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163151/nassaukade
-Appartement,2,90m,Perfect Housing bv," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172420/balthasar-floriszstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,60m,Nuverhuren.nl," 1.150,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186999/bessemerstraat
-Appartement,1,55m,Klok Real Estate," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186997/wilhelminastraat
-Appartement,1,90m,ResidenceDesk," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186993/prinsengracht
-Appartement,2,70m,Valerius Rentals," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186987/dufaystraat
-Appartement,2,60m,Valerius Rentals," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186986/dufaystraat
-Appartement,2,50m,iBlue Makelaars," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186985/javastraat
-Huurwoning,1,142m,Vesteda Noord West," 1.225,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001180260/veemkade
-Huurwoning,3,108m,Vesteda Noord West," 875,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183317/sandinostraat
-Huurwoning,3,110m,Vesteda Noord West," 895,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183318/pieter-calandlaan
-Appartement,2,105m,JLG Real Estate," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186935/marie-heinekenplein
-Appartement,3,100m,Dop Verhuur B.V.," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186930/hoendiepstraat
-Appartement,1,55m,Dop Verhuur B.V.," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186928/hoendiepstraat
-Studio,1,30m,Nuverhuren.nl," 1.150,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001182993/tweede-jan-steenstraat
-Appartement,2,90m,Renthouse Vastgoed," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186904/parnassusweg
-Huurwoning,3,100m,Renthouse Vastgoed," 1.650,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186900/sloterweg
-Appartement,1,21m,Student Experience," 627,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186881/joan-muyskenweg
-Appartement,2,75m,DSTRCT Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186875/nieuwezijds-voorburgwal
-Huurwoning,3,110m,Koops Makelaardij," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186870/peter-wotkehof
-Studio,1,45m,YP Housing," 1.300,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001186867/oudezijds-achterburgwal
-Appartement,1,50m,YP Housing," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186866/oudezijds-achterburgwal
-Appartement,1,66m,YP Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186858/oudezijds-achterburgwal
-Appartement,1,64m,YP Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186854/oudezijds-achterburgwal
-Appartement,2,66m,YP Housing," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186850/oudezijds-achterburgwal
-Appartement,1,100m,HousingNet," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186745/ecuplein
-Appartement,2,100m,123 Wonen Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186705/weteringschans
-Kamer,1,15m,Houses &amp; Rooms," 500,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001186680/van-nijenrodeweg
-Appartement,1,55m,Houses &amp; Rooms," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186679/vogelenzangstraat
-Appartement,2,90m,INTERHOUSE Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186666/nijenburg
-Appartement,1,60m,INTERHOUSE Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186665/barentszstraat
-Appartement,1,62m,Expathousing.com (Amsterdam) ," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186649/hoofddorpplein
-Appartement,1,45m,Amsterdam Rental Brokers," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186645/olympiakade
-Appartement,1,50m,Perfect Housing bv," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186619/bethaniendwarsstraat
-Appartement,2,75m,Perfect Housing bv," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186618/egidiusstraat
-Appartement,1,50m,Perfect Housing bv," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186616/van-ostadestraat
-Appartement,3,120m,Perfect Housing bv," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186614/geuzenkade
-Appartement,1,65m,Perfect Housing bv," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186613/lijnbaansgracht
-Appartement,1,70m,Just Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186610/vossiusstraat
-Appartement,1,70m,Just Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186610/vossiusstraat
-Appartement,2,100m,Just Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186609/vondelstraat
-,3,0m,B2 Makelaars," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186602/osdorperweg
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,67m,123 Wonen Amsterdam," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177849/loenermark
-Appartement,1,60m,Victor Ch. Haije - Makelaardij o.g.," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186568/bilderdijkstraat
-Appartement,1,50m,ResidenceDesk," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186562/govert-flinckstraat
-Appartement,1,60m,RE/MAX Pro," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186533/rustenburgerstraat
-Appartement,2,60m,RE/MAX Pro," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186531/hoofdweg
-Appartement,1,60m,RE/MAX Pro," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186527/pieter-aertszstraat
-Appartement,3,79m,BrinkBorgh Makelaardij," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186525/haarlemmerdijk
-Appartement,1,57m,Amsterdam Real Estate," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186517/utrechtsedwarsstraat
-Huurwoning,3,132m,11 makelaars," 1.395,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186513/adrianus-van-waertweg
-Appartement,1,55m,Amstel Makelaardij o.g.," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186501/eerste-atjehstraat
-Appartement,2,60m,Dinant Makelaardij," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186494/stadionplein
-Appartement,1,80m,RE/MAX Pro," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186444/zoomstraat
-Appartement,2,140m,RE/MAX Pro," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186445/jan-van-zutphenstraat
-Huurwoning,3,80m,Nationaal Grondbezit," 875,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186425/halteriastraat
-Appartement,2,80m,EasyRentals," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186400/van-eeghenstraat
-Appartement,2,65m,EasyRentals," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186399/boterdiepstraat
-Appartement,2,70m,Prins&amp; Rentals," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186385/ijselstraat
-Appartement,3,115m,C. Hoen Dzn C.V.," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186370/van-heenvlietlaan
-Appartement,2,75m,Expathousing.com (Amsterdam) ," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186366/zocherstraat
-Appartement,1,55m,Amsterdam Rental Brokers," 1.575,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186359/lijnbaansgracht
-Appartement,2,70m,JLG Real Estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186242/westerdoksdijk
-Appartement,2,80m,KK Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186235/wittenburgergracht
-Huurwoning,2,110m,Vesteda Noord West," 1.090,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001179398/ijburglaan
-Appartement,2,120m,e-Xpats," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186233/waterlooplein
-Appartement,2,82m,Inter Immo," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186232/rietlandpark
-Appartement,2,75m,DWM Vastgoed," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186223/botterstraat
-Appartement,1,70m,Bianca Combee Housing Service," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186209/gustav-mahlerplein
-Appartement,2,60m,A Plus Apartments," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186206/van-rensselaerstraat
-Appartement,1,50m,RandstadWonen Haarlem," 1.050,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186192/bonairestraat
-Appartement,1,65m,RandstadWonen Haarlem," 975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186191/admiraal-de-ruijterweg
-Appartement,1,60m,RandstadWonen Haarlem," 1.050,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186189/marconistraat
-Appartement,1,70m,Your Home Makelaardij," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186113/nicolaas-maesstraat
-Appartement,2,85m,Inter Immo," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186108/van-nijenrodeweg
-Appartement,2,80m,Overbruggingsverhuur.nl," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186086/wittgensteinlaan
-Huurwoning,2,70m,123 Wonen Amsterdam," 1.850,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186007/rozengracht
-Appartement,2,50m,EasyRentals," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185946/mesdagstraat
-Huurwoning,2,140m,Vesteda Noord West," 1.295,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001185943/veemkade
-Huurwoning,1,101m,Vesteda Noord West," 1.050,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001185940/doggerstraat
-Appartement,2,110m,De Vastgoed Galerie," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185929/cornelis-dirkszstraat
-Appartement,2,56m,Amsterdamse Maatschappij," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185911/overtoom
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,72m,Expathousing.com (Amsterdam) ," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185894/eerste-helmersstraat
-Appartement,1,60m,DSTRCT Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185869/prinsengracht
-Appartement,2,145m,Haagen &amp; Partners B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185846/kerkstraat
-Appartement,3,128m,JLG Real Estate," 1.375,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185842/wigbolt-ripperdastraat
-Appartement,1,50m,ROB Real Estate," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185838/nicolaas-japiksestraat
-Appartement,2,93m,Diverse makelaars," 1.515,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173672/visseringstraat
-Appartement,2,90m,Amsterdam Rental Brokers," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185827/venetiehof
-Appartement,1,80m,Relocation Advisers B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185808/koninginneweg
-Appartement,2,60m,Deep Housing," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185805/admiraal-de-ruijterweg
-Appartement,2,75m,Relocators," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185795/ferdinand-bolstraat
-Appartement,3,102m,Inter Immo," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185789/belgieplein
-Appartement,1,58m,B.V. AHAM," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185779/vrijheidslaan
-Appartement,1,58m,B.V. AHAM," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185778/groenendaalstraat
-Appartement,1,65m,Amsterdam Housing," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185775/johannes-verhulststraat
-,1,0m,Dutch Projects," 1.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185772/esther-de-boer-van-rijkstraat
-Appartement,3,100m,Zeeberg," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185768/pieter-langendijkstraat
-Appartement,1,60m,Urban Apartments," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185758/boterdiepstraat
-Appartement,2,75m,HousingNet," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185749/haarlemmerweg
-Appartement,3,65m,Hamilton Vastgoed," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185742/borneostraat
-Appartement,1,60m,123 Wonen Amsterdam," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185699/lutmastraat
-Appartement,2,75m,123 Wonen Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185698/bramzeilhof
-Appartement,3,81m,123 Wonen Amsterdam," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185696/daniel-stalpertstraat
-Appartement,1,50m,Groot Amsterdam Makelaardij BV," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185665/herengracht
-Appartement,1,100m,Expathousing.com (Amsterdam) ," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185636/prins-hendrikkade
-Appartement,2,55m,Expathousing.com (Amsterdam) ," 1.330,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185634/wilhelminastraat
-Huurwoning,2,89m,Vesteda Noord West," 875,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001178383/johan-huizingalaan
-Huurwoning,3,115m,Vesteda Noord West," 906,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001178384/romerostraat
-Studio,1,22m,Orangebrick BV," 789,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001185591/jacob-van-lennepkade
-Appartement,3,130m,Amsterdam Housing," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185582/van-heenvlietlaan
-Appartement,1,68m,Provast Beheer," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185579/de-kempenaerstraat
-Appartement,1,38m,Homeless," 980,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185577/van-nijenrodeweg
-Appartement,3,100m,Dutch Projects," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185528/tussen-meer
-Appartement,3,0m,+31 Vastgoed," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185497/noordzijde
-Appartement,1,90m,Grand Apartments Amsterdam," 1.985,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001170270/keizersgracht
-Appartement,2,95m,Grand Apartments Amsterdam," 1.985,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178191/koninginneweg
-Appartement,1,95m,Grand Apartments Amsterdam," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178197/oudeschans
-Appartement,1,45m,+31 Vastgoed," 1.290,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185495/quellijnstraat
-Appartement,1,55m,+31 Vastgoed," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185489/aalbersestraat
-Huurwoning,1,90m,up2rent," 1.350,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001185452/arondeusstraat
-Appartement,2,75m,City Housing Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185450/utrechtsedwarsstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Huurwoning,3,126m,Vesteda Noord West," 906,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001178953/geertruida-van-lierstraat
-Huurwoning,2,83m,Vesteda Noord West," 940,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001185428/galjootstraat
-Huurwoning,2,102m,Vesteda Noord West," 1.025,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181996/cas-oorthuyskade
-Huurwoning,1,100m,Vesteda Noord West," 1.215,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181997/purperhoedenveem
-Huurwoning,2,98m,Vesteda Noord West," 1.393,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181999/overhoeksparklaan
-Appartement,1,70m,Expat Housing Rentals," 1.195,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185406/juliana-van-stolbergstraat
-Appartement,2,60m,HousingNet," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185387/durgerdammerdijk
-Appartement,2,85m,Luxor Wonen," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185327/woestduinstraat
-Huurwoning,2,103m,Vesteda Noord West," 910,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001185291/cornelis-outshoornstraat
-Appartement,2,100m,Amsterdam Beautiful Property Rental," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185240/oudezijds-voorburgwal
-Appartement,2,100m,First Class Housing," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185220/beysterveld
-Huurwoning,4,215m,Vesteda Noord West," 1.551,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181758/ijburglaan
-,2,0m,Koops Makelaardij Amstelveen," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185158/funenpark
-Appartement,3,88m,BrinkBorgh Makelaardij," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184964/deurloostraat
-Appartement,1,80m,Grand Apartments Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184943/roelof-hartplein
-Appartement,1,70m,A Plus Apartments," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184903/bonairestraat
-Appartement,1,60m,B.V. AHAM," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184896/groenendaalstraat
-Appartement,2,110m,KK Amsterdam," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184890/zeeburgerkade
-Appartement,1,75m,KK Amsterdam," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184889/j-j-cremerplein
-Appartement,1,75m,Hamilton Vastgoed," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184836/prinseneiland
-Appartement,2,90m,AHA (Another Home Abroad)," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184783/surinameplein
-Appartement,2,75m,Domica Amsterdam," 1.075,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184773/loenermark
-Appartement,3,80m,INTERHOUSE Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184707/kennemerduinstraat
-Huurwoning,2,76m,Stadgenoot," 775,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001184688/pomonastraat
-Appartement,2,55m,Amsterdam Rental Brokers," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184680/huidekoperstraat
-Appartement,2,85m,Perfect Housing bv," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184649/funenpark
-Appartement,2,105m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184648/maasstraat
-,1,0m,Holland Housing BV," 500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184643/vijzelgracht
-Appartement,1,45m,Holland Housing BV," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184642/dirk-van-hasseltssteeg
-Appartement,3,90m,B.V. AHAM," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184631/rooseveltlaan
-Appartement,1,80m,Perfect Housing bv," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163162/binnenkant
-Appartement,1,65m,Perfect Housing bv," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175941/rustenburgerdwarsstraat
-Appartement,2,80m,A Plus Apartments," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184627/woestduinstraat
-Appartement,2,60m,Victor Ch. Haije - Makelaardij o.g.," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184620/tweede-helmersstraat
-Appartement,2,85m,Amsterdam Housing," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184613/pieter-calandlaan
-Appartement,2,57m,BrinkBorgh Makelaardij," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184611/kinderdijkstraat
-Appartement,2,86m,B.V. AHAM," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184610/overtoom
-Appartement,2,100m,City Homes," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184600/zeeburgerkade
-Appartement,2,85m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184599/van-nijenrodeweg
-Appartement,2,100m,Overbruggingsverhuur.nl," 1.595,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184577/sarphatistraat
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,0m,CityHop/ Corperate Housing Solutions," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184506/govert-flinckstraat
-Appartement,2,85m,Vivicasa," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184416/burgemeester-de-vlugtlaan
-Appartement,2,75m,Diverse makelaars," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184354/keizersgracht
-Appartement,1,80m,EasyRentals," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184286/silodam
-Appartement,2,80m,Rappange Makelaardij," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184243/saxen-weimarlaan
-Appartement,1,100m,First Class Housing," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184185/alexanderkade
-Studio,1,40m,A1 Executive Estate," 1.395,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001184173/utrechtsedwarsstraat
-Appartement,1,60m,A1 Executive Estate," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184171/bloemgracht
-Appartement,1,60m,A1 Executive Estate," 1.795,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184172/bloemgracht
-Appartement,1,60m,A1 Executive Estate," 1.595,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184169/bloemgracht
-Appartement,2,125m,JLG Real Estate," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184119/rietlandpark
-Appartement,1,60m,JLG Real Estate," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184118/tweede-jan-van-der-heijdenstraat
-Appartement,2,75m,MovingIn," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184109/hogeweg
-Huurwoning,2,119m,Vesteda Noord West," 1.095,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001177826/cas-oorthuyskade
-Huurwoning,2,83m,Vesteda Noord West," 1.010,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181128/anton-constandsestraat
-Appartement,2,95m,Partner in real estate," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184100/derde-looiersdwarsstraat
-Appartement,1,80m,A Plus Apartments," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184097/silodam
-Appartement,1,54m,B.V. AHAM," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184096/legmeerplein
-Appartement,2,90m,Relocation Advisers B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184063/rondeel
-Appartement,1,60m,Rotonda Real Estate," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184048/van-ostadestraat
-Appartement,4,70m,BrinkBorgh Makelaardij," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184042/winterdijkstraat
-Appartement,2,60m,Hamilton Vastgoed," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184002/admiraal-de-ruijterweg
-Appartement,1,58m,RE/MAX Pro," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183961/hortusplantsoen
-Appartement,1,60m,RE/MAX Pro," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183959/sassenheimstraat
-Appartement,2,80m,RE/MAX Pro," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183960/kamerlingh-onneslaan
-Huurwoning,3,117m,Vesteda Noord West," 906,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183919/m-gandhilaan
-Huurwoning,2,105m,Vesteda Noord West," 898,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183914/cornelis-outshoornstraat
-Appartement,2,65m,My Housing Agent," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183889/curacaostraat
-Appartement,2,65m,Rappange Makelaardij," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183884/bloemstraat
-Appartement,1,70m,JLG Real Estate," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183842/singel
-Huurwoning,3,108m,Vesteda Noord West," 875,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001175176/sandinostraat
-Appartement,1,45m,Koops Makelaardij Amstelveen," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183829/rosy-wertheimstraat
-Appartement,1,85m,City Housing Amsterdam," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183827/dam
-Appartement,2,125m,Inter Immo," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183805/churchill-laan
-Appartement,3,80m,City Housing Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183794/riouwstraat
-Appartement,1,85m,Amsterdam Beautiful Property Rental," 1.985,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001107229/kerkstraat
-Appartement,1,70m,DL Housing Services," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183717/tweede-laurierdwarsstraat
-Appartement,1,70m,DL Housing Services," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183716/tweede-laurierdwarsstraat
-Appartement,3,91m,Linger Onroerend Goed Bemiddeling," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183652/grootzeilhof
-Kamer,1,30m,EasyRentals," 725,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001183633/retiefstraat
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,55m,Unlimited Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183583/olympiaweg
-Appartement,2,85m,Klok Real Estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183582/overtoom
-Huurwoning,1,108m,Vesteda Noord West," 1.225,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001175183/veemkade
-Huurwoning,1,140m,Vesteda Noord West," 1.750,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001175185/gustav-mahlerlaan
-Appartement,2,80m,123 Wonen Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183578/pieter-calandlaan
-Appartement,1,57m,BNV Makelaars," 1.275,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183556/kiefskamp
-Kamer,1,120m,e-Xpats," 1.300,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001183547/waterlooplein
-Appartement,1,0m,+31 Vastgoed," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183531/le-mairekade
-Appartement,2,100m,+31 Vastgoed," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183529/erich-salomonstraat
-Kamer,1,12m,e-Xpats," 500,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001183493/kea-boumanstraat
-Appartement,2,75m,ROB Real Estate," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183492/langswater
-Appartement,1,70m,Turenhout Makelaarsdiensten," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183488/eurokade
-Appartement,3,145m,Raysemhousing.nl," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183470/melis-stokehof
-Huurwoning,4,140m,Amstel Property Agency," 1.800,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183466/le-tourmalet
-Appartement,1,85m,KK Amsterdam," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183459/beethovenstraat
-Kamer,1,24m,brief case hometip," 665,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001183458/sarphatistraat
-Appartement,1,80m,Klok Real Estate," 1.625,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183457/singel
-Appartement,3,73m,G&D;&Y; Housing," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183439/oldengaarde
-Appartement,1,60m,Rappange Makelaardij," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183425/binnen-dommersstraat
-Huurwoning,2,84m,Vesteda Noord West," 1.010,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001177154/bart-de-ligtstraat
-Huurwoning,2,103m,Vesteda Noord West," 790,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001177157/pieter-postpad
-Appartement,1,60m,Diverse makelaars," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183423/korte-leidsedwarsstraat
-Appartement,2,80m,Amstel Property Agency," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001155883/arent-janszoon-ernststraat
-Appartement,2,64m,King Housing," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183402/amstelveenseweg
-Appartement,1,45m,Hamilton Vastgoed," 1.025,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183392/admiraal-de-ruijterweg
-Appartement,2,70m,INTERHOUSE Amsterdam," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183301/nieuwe-hoogstraat
-Appartement,2,77m,Amsterdam Beautiful Property Rental," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183298/schinkelkade
-Appartement,2,65m,Hakkenbroek Housing Company," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183278/geuzenstraat
-Appartement,1,90m,Perfect Housing bv," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183268/oudebrugsteeg
-Appartement,2,104m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183266/jekerstraat
-Appartement,1,60m,JLG Real Estate," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183261/driehoekstraat
-Appartement,2,98m,JLG Real Estate," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183262/carnapstraat
-Appartement,3,55m,ROB Real Estate," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183258/hoofdweg
-Appartement,2,61m,DSTRCT Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183252/blankenstraat
-Appartement,2,90m,VRC - Veth Realty &amp; Consultancy BV," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183219/fraunhoferstraat
-Appartement,2,70m,Parker &amp; Williams Real Estate Services," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183210/banstraat
-Appartement,1,55m,EHR Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183149/korte-amstelstraat
-Studio,1,40m,Houses &amp; Rooms," 1.250,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001183057/lange-niezel
-Appartement,2,85m,Henk Burger Makelaardij," 1.325,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183055/kastelenstraat
-Appartement,1,0m,RandstadWonen Haarlem," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183051/stadhouderskade
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,65m,Amsterdam Beautiful Property Rental," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183043/van-eeghenstraat
-Appartement,2,86m,Jacobus Recourt," 900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183020/wiltzanghlaan
-Appartement,2,90m,Hakkenbroek Housing Company," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183011/kerkstraat
-Appartement,1,70m,Holland Home Management," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182983/johannes-verhulststraat
-Appartement,2,100m,Amsterdam Housing," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182980/rondeel
-Appartement,1,75m,Inter Immo," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182970/bilderdijkkade
-Appartement,1,50m,Dop Verhuur B.V.," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182959/hortusplantsoen
-Appartement,1,80m,Gaikhorst Makelaars &amp; Taxateurs o.g.," 1.575,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182939/leidsegracht
-Appartement,1,70m,Prinsen Residence International," 1.590,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182927/palmgracht
-Appartement,2,65m,Boek 7 Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182875/grianestraat
-Appartement,2,85m,Prins&amp; Rentals," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182797/ben-van-meerendonkstraat
-Appartement,2,70m,Amsterdamse Maatschappij," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182775/overtoom
-Appartement,1,80m,Amsterdamse Maatschappij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182774/groenburgwal
-Appartement,3,140m,Amsterdamse Maatschappij," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182772/titiaanstraat
-Appartement,1,75m,Haagen &amp; Partners B.V.," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182730/koninginneweg
-Huurwoning,1,65m,up2rent," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001182719/curacaostraat
-Appartement,1,80m,Parker &amp; Williams Real Estate Services," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182694/nassaukade
-Appartement,1,80m,Relocation Advisers B.V.," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182684/nassaukade
-Appartement,1,70m,DSTRCT Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182679/keizersgracht
-Appartement,2,96m,Holland Home Management," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182666/meerhuizenplein
-Appartement,1,48m,Provast Beheer," 1.125,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186862/javastraat
-Appartement,2,80m,Prinsen Residence International," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182613/looiersgracht
-Appartement,1,68m,Makelaarskantoor BEN BV," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182556/willem-van-weldammelaan
-Appartement,1,70m,Rots Vast Groep Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182539/haarlemmerplein
-Appartement,2,100m,Haagen &amp; Partners B.V.," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182443/sarphatistraat
-Huurwoning,1,65m,Just Housing," 1.350,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001182441/driehoekstraat
-Appartement,1,65m,JLG Real Estate," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182440/vechtstraat
-Appartement,2,72m,JLG Real Estate," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182439/dikninge
-Appartement,3,84m,Woningverhuur Zwolle," 1.160,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182381/slotermeerlaan
-Appartement,2,65m,A Plus Apartments," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182377/rustenburgerstraat
-Appartement,1,80m,Partner in real estate," 1.625,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182376/beethovenstraat
-Huurwoning,2,80m,Diverse makelaars," 1.500,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001182367/stolwijkstraat
-Appartement,3,110m,Diverse makelaars," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182362/kribbestraat
-Appartement,2,65m,Diverse makelaars," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182359/haarlemmerstraat
-Appartement,1,65m,Koops Makelaardij Amstelveen," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182276/asingaborg
-Appartement,2,100m,Diverse makelaars," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182268/van-heenvlietlaan
-Appartement,2,96m,HB Housing," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182255/bos-en-lommerweg
-Appartement,4,140m,HB Housing," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182254/slotermeerlaan
-Appartement,2,61m,Expathousing.com (Amsterdam) ," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182233/looiersgracht
-Appartement,2,90m,Living Today Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182221/wijttenbachstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,110m,Hakkenbroek Housing Company," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182208/kiekstraat
-Appartement,1,60m,Haagen &amp; Partners B.V.," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182196/marnixkade
-Appartement,3,96m,Amstel Housing," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182194/graaf-florisstraat
-Appartement,1,60m,Homeless," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182185/lange-leidsedwarsstraat
-Appartement,2,75m,Amsterdam Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182155/frieslandstraat
-Appartement,2,85m,A Plus Apartments," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182127/rijnstraat
-Appartement,1,65m,All in Housing," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182099/elandsgracht
-Appartement,1,70m,City Homes," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182070/nieuwe-kerkstraat
-Appartement,2,75m,Valerius Rentals," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182016/westerstraat
-Appartement,1,70m,Klok Real Estate," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181933/tolstraat
-Appartement,1,50m,DSTRCT Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181859/prinsengracht
-Appartement,2,55m,RE/MAX Pro," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181798/pieter-van-der-doesstraat
-Appartement,1,40m,123 Wonen Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181787/van-der-hoopstraat
-Appartement,2,91m,123 Wonen Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181788/staalstraat
-Appartement,1,60m,Netwerk Makelaardij," 1.395,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181782/van-ostadestraat
-Appartement,3,100m,Amstel Housing," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181688/dijkgraafplein
-Appartement,3,135m,Amstel Property Agency," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181685/oeverpad
-Appartement,1,65m,Mensink Makelaardij," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181614/nieuwe-nieuwstraat
-Appartement,2,108m,Diverse makelaars," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181533/van-heenvlietlaan
-Appartement,1,77m,Amstel Makelaardij o.g.," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181511/hemonystraat
-Appartement,2,95m,Rots Vast Groep Amsterdam," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181476/waalstraat
-Appartement,1,90m,Amsterdam Beautiful Property Rental," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181419/johannes-vermeerplein
-Appartement,1,60m,Perfect Housing bv," 1.375,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181331/jacob-van-lennepkade
-Appartement,1,40m,Perfect Housing bv," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181329/kerkstraat
-Appartement,1,95m,Perfect Housing bv," 1.985,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181325/oudeschans
-Appartement,1,80m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181322/nieuwe-achtergracht
-Appartement,1,71m,Relocators," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181316/plantage-parklaan
-Appartement,2,80m,Parker &amp; Williams Real Estate Services," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181278/prinsengracht
-Appartement,2,80m,Parker &amp; Williams Real Estate Services," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181274/winthontstraat
-Appartement,2,110m,123 Wonen Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168092/knsm-laan
-Appartement,1,50m,Parker &amp; Williams Real Estate Services," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181260/prinsengracht
-Appartement,1,55m,Parker &amp; Williams Real Estate Services," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181258/piet-gijzenbrugstraat
-Appartement,2,90m,Rotonda Real Estate," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181235/feike-de-boerlaan
-Appartement,1,50m,EasyRentals," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181139/nova-zemblastraat
-Appartement,2,125m,INTERHOUSE Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181123/nassaukade
-Appartement,1,85m,+31 Vastgoed," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181108/tolstraat
-Appartement,1,80m,+31 Vastgoed," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181105/le-mairekade
-Appartement,2,95m,Amsterdam Rental Brokers," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181075/jacques-veltmanstraat
-Appartement,1,60m,Haagen &amp; Partners B.V.," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181058/sloterkade
-Appartement,1,100m,Haagen &amp; Partners B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181057/rietwijkerstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Huurwoning,5,140m,INTERHOUSE Amsterdam," 1.450,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0000990525/brenner
-Appartement,1,84m,INTERHOUSE Amsterdam," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153544/keizersgracht
-Appartement,3,90m,INTERHOUSE Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153545/osdorper-ban
-Appartement,2,100m,expat2holland," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181008/haringvlietstraat
-Appartement,3,110m,020Apartment," 1.522,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181007/buys-ballotstraat
-Appartement,1,75m,A Plus Apartments," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180999/willemsparkweg
-Appartement,2,85m,A Plus Apartments," 1.499,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180998/rijnstraat
-Appartement,2,85m,A Plus Apartments," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180994/rijnstraat
-Appartement,1,0m,Dynamic Housing Amsterdam," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180979/pieter-aertszstraat
-Appartement,1,65m,Eurostone real estate," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180951/rozengracht
-Appartement,2,72m,All in Housing," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180883/oudebrugsteeg
-Appartement,2,100m,Homeseekers Worldwide," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180734/bilderdijkstraat
-Appartement,1,72m,A Plus Apartments," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180722/nassaukade
-Appartement,3,150m,B.V. AHAM," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180706/rooseveltlaan
-Appartement,3,74m,B.V. AHAM," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180705/ritzema-bosstraat
-Appartement,2,47m,B.V. AHAM," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180700/solebaystraat
-Appartement,2,110m,VLIEG Makelaars OG," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180690/valkenburgerstraat
-Appartement,2,75m,EHR Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180631/fannius-scholtenstraat
-Appartement,2,90m,e-Xpats," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186216/wildeman
-Appartement,2,75m,e-Xpats," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186218/boutenburg
-Appartement,3,107m,BNV Makelaars," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180600/slangenburg
-Appartement,2,78m,TVN Real Estate," 1.175,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180581/tjasker
-Appartement,1,45m,City Housing Amsterdam," 875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180578/wittenburgergracht
-Appartement,2,90m,BNV Makelaars," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180552/iepenplein
-Appartement,2,70m,27 Huis Makelaars," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180522/noorderstraat
-Appartement,2,65m,HousingXL.nl," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180498/haarlemmerweg
-Appartement,1,65m,Peter Bruin Makelaardij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180483/keizersgracht
-Appartement,1,86m,Ymere," 825,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180477/bernard-loderstraat
-Appartement,1,60m,MovingIn," 1.290,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180412/ijselstraat
-Appartement,1,80m,Newport Relocation," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180393/palmgracht
-Appartement,2,55m,123 Wonen Amsterdam," 1.395,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180281/bankastraat
-Appartement,1,60m,HB Housing," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180241/vogelenzangstraat
-Appartement,1,64m,Jacobus Recourt," 770,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180218/koningin-wilhelminaplein
-Appartement,2,65m,expat2holland," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180189/huidekoperstraat
-Appartement,2,102m,Engel &amp; Vlkers," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180165/overhoeksparklaan
-Appartement,2,100m,Kelly Housing," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180128/jan-oudegeeststraat
-Appartement,1,75m,Expat Life," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180092/nova-zemblastraat
-Appartement,2,90m,Beheer Mijn Huis ," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001180089/zeeburgerkade
-Huurwoning,4,170m,Rosmuller Makelaars," 1.995,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001173156/juttepeerpad
-Huurwoning,1,90m,HousingNet," 1.800,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001180040/utrechtsedwarsstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,60m,HB Housing," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179936/jan-van-schaffelaarplantsoen
-Appartement,2,80m,Hakkenbroek Housing Company," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179899/prinseneiland
-Appartement,2,100m,Klok Real Estate," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179873/carolina-macgillavrylaan
-Appartement,2,80m,SPOT Relocations," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179809/linnaeusparkweg
-Appartement,3,100m,Diverse makelaars," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179788/willem-schoutenstraat
-Appartement,1,120m,KK Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179773/ladogameerhof
-Appartement,3,110m,A Plus Apartments," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179771/esplanade-de-meer
-Huurwoning,4,170m,Owenfield," 1.800,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001179770/jan-oudegeeststraat
-Appartement,2,115m,Parker &amp; Williams Real Estate Services," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179768/geldersekade
-Appartement,1,50m,Rots Vast Groep Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179676/lange-leidsedwarsstraat
-Appartement,1,87m,INTERHOUSE Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179639/javaplein
-Appartement,2,80m,INTERHOUSE Amsterdam," 1.150,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179638/dierenriem
-Appartement,3,110m,HousingXL.nl," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179421/deltastraat
-Appartement,2,85m,Babs Persoons B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179371/reguliersgracht
-Appartement,2,130m,Haagen &amp; Partners B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179324/schinkelkade
-Appartement,2,94m,Haagen &amp; Partners B.V.," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179323/waldenlaan
-Appartement,1,80m,Owenfield," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179302/nieuwe-nieuwstraat
-Appartement,1,65m,Beschikbare-huurwoningen," 1.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179261/nieuwendammerkade
-Appartement,1,95m,Amsterdam Gooi Real Estate," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179247/amsteldijk
-Appartement,2,75m,Beschikbare-huurwoningen," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179234/utrechtsedwarsstraat
-Appartement,2,65m,Newport Relocation," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179207/s-f-van-ossstraat
-Kamer,1,90m,ProHousingAgent," 500,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001179197/adelaarsweg
-Appartement,1,80m,ProHousingAgent," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179188/singel
-Appartement,2,90m,INTERHOUSE Amsterdam," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171970/hageland
-Huurwoning,3,140m,INTERHOUSE Amsterdam," 1.500,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0000980418/diopter
-Appartement,1,50m,ProHousingAgent," 1.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179185/scharwouderstraat
-Appartement,1,40m,City Hideaways," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179173/binnenkant
-Woonboot,2,80m,Key-BnB," 2.000,-",http://www.pararius.nl/woonboot-te-huur/amsterdam/PR0001179135/da-costakade
-Appartement,1,75m,VRC - Veth Realty &amp; Consultancy BV," 1.795,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178894/eerste-jacob-van-campenstraat
-Appartement,1,85m,SPOT Relocations," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178892/egelantiersgracht
-Appartement,1,65m,CityHop/ Corperate Housing Solutions," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178839/beulingstraat
-Appartement,2,80m,Your Home Makelaardij," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178823/tweede-constantijn-huygensstraat
-Appartement,1,68m,HB Housing," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178730/bonairestraat
-Appartement,2,80m,INTERHOUSE Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178729/julius-pergerstraat
-Appartement,1,45m,Beschikbare-huurwoningen," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178574/van-beuningenplein
-Appartement,1,85m,N&D; Real Estate," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178544/de-boelelaan
-Appartement,2,90m,Rots Vast Groep Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178475/korte-leidsedwarsstraat
-Appartement,2,65m,Rots Vast Groep Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178473/korte-leidsedwarsstraat
-Appartement,3,120m,NooreState," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178428/nassaukade
-Kamer,1,8m,Houses &amp; Rooms," 299,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001178372/baden-powellweg
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,100m,JLG Real Estate," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178297/maria-austriastraat
-Appartement,2,80m,Parker &amp; Williams Real Estate Services," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178253/prinsengracht
-Appartement,1,80m,Diverse makelaars," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001126181/huidekoperstraat
-Appartement,2,58m,Mensink Makelaardij," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178198/nieuwezijds-voorburgwal
-Appartement,2,90m,A Plus Apartments," 1.275,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178186/trompenburgstraat
-Appartement,1,38m,ROB Real Estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178064/elandsgracht
-Appartement,2,85m,HB Housing," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178032/pieter-calandlaan
-Appartement,1,75m,INTERHOUSE Amsterdam," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178031/blauwburgwal
-Appartement,2,70m,Collectief Makelaars," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178028/eemsstraat
-Appartement,1,65m,Expat Housing," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178012/zocherstraat
-Appartement,3,92m,JLG Real Estate," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177960/jan-van-duivenvoordestraat
-Appartement,2,80m,KK Amsterdam," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177768/korte-leidsedwarsstraat
-Appartement,1,51m,Leeghuis," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186569/knollendamstraat
-Appartement,1,55m,Engel &amp; Vlkers," 1.295,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177733/bronckhorststraat
-Appartement,1,55m,Beschikbare-huurwoningen," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177719/vogelenzangstraat
-Appartement,3,130m,B2 Makelaars," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001148917/backershagen
-Appartement,2,90m,INTERHOUSE Amsterdam," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001139377/polanenstraat
-Appartement,2,85m,Owenfield," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177685/julius-pergerstraat
-Appartement,3,110m,Gaikhorst Makelaars &amp; Taxateurs o.g.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177534/veerstraat
-Appartement,1,90m,B2 Makelaars," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177502/van-nijenrodeweg
-Studio,1,55m,Parker &amp; Williams Real Estate Services," 1.450,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001177498/prinsengracht
-Appartement,2,100m,Amstel Property Agency," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177394/carolina-macgillavrylaan
-Studio,1,43m,Beschikbare-huurwoningen," 1.000,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001177387/johannes-worpstraat
-Appartement,3,100m,Linger Onroerend Goed Bemiddeling," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177358/baden-powellweg
-Appartement,1,70m,Amstelland Makelaars," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000675260/nieuwezijds-voorburgwal
-Appartement,3,130m,Amstelland Makelaars," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001066794/william-barlowlaan
-Appartement,1,75m,Haagen &amp; Partners B.V.," 1.675,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177109/westerdok
-Appartement,2,90m,e-Xpats," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186221/pieter-de-hoochstraat
-Appartement,1,80m,Rosmuller Makelaars," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177004/singel
-Appartement,2,73m,Haagen &amp; Partners B.V.," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176854/burgemeester-hogguerstraat
-Appartement,1,100m,My Housing Agent," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176741/tuinstraat
-Appartement,1,70m,JLG Real Estate," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176531/keizersgracht
-Huurwoning,2,108m,ACM Housing Amsterdam," 1.274,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001176498/hollandiagracht
-Appartement,2,110m,EasyRentals," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176296/agamemnonstraat
-Appartement,2,86m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176223/oranje-vrijstaatplein
-Kamer,1,11m,Efficient Estate," 450,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001176137/buikslotermeerplein
-Appartement,2,90m,Relocation Advisers B.V.," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176132/van-der-palmkade
-Appartement,1,90m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000674874/utrechtsedwarsstraat
-Appartement,2,75m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000964268/marnixstraat
-Appartement,2,85m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163077/marie-heinekenplein
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,70m,Perfect Housing bv," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000751724/waterlooplein
-Appartement,1,85m,Amsterdam Housing," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176126/prinsengracht
-Appartement,2,65m,A Plus Apartments," 1.349,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176104/grianestraat
-Appartement,1,55m,A Plus Apartments," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176098/joan-melchior-kemperstraat
-Appartement,2,100m,Amsterdam Gooi Real Estate," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176095/ijburglaan
-Appartement,1,50m,DSTRCT Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176063/amstel
-Appartement,2,100m,Relocation Advisers B.V.," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175918/singel
-Appartement,2,105m,Amsterdam Housing," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186593/jekerstraat
-Appartement,1,80m,Key-BnB," 1.990,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175880/nieuwe-keizersgracht
-Appartement,2,100m,Partner in real estate," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001157920/oude-waal
-Appartement,2,100m,Amsterdam Housing," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175877/honingen
-Appartement,2,80m,Key-BnB," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175867/lomanstraat
-Appartement,2,100m,Rosmuller Makelaars," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175779/baden-powellweg
-Appartement,1,55m,RE/MAX Pro," 1.095,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175593/molukkenstraat
-Huurwoning,1,50m,Rappange Makelaardij," 1.150,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001175366/tweede-leliedwarsstraat
-Studio,1,40m,Luxor Wonen," 1.250,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001175061/lange-niezel
-Appartement,1,65m,HB Housing," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175031/van-eeghenstraat
-Appartement,3,130m,JLG Real Estate," 1.795,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001174996/jan-de-louterstraat
-Appartement,1,130m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000720289/kerkstraat
-Appartement,1,70m,up2rent," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001174952/hobbemakade
-Appartement,1,115m,Haagen &amp; Partners B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001174783/kerkstraat
-Appartement,1,80m,Perfect Housing bv," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163120/keizersgracht
-Appartement,1,50m,Boek 7 Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001174447/singel
-Appartement,2,114m,Rappange Makelaardij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001174003/oudezijds-voorburgwal
-Appartement,2,92m,Fris Vastgoed Management," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173949/wilhelminastraat
-Appartement,1,68m,MTH Makelaars," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173858/nassaukade
-Appartement,1,0m,G&D;&Y; Housing," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173283/ruysdaelstraat
-Appartement,2,65m,Mensink Makelaardij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173223/spuistraat
-Huurwoning,3,110m,Vesteda Noord West," 875,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001173558/pieter-calandlaan
-Huurwoning,4,215m,Vesteda Noord West," 1.551,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001173552/ijburglaan
-Huurwoning,2,108m,Vesteda Noord West," 1.060,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001173551/zuidelijke-wandelweg
-Huurwoning,2,100m,Vesteda Noord West," 1.035,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001173386/bert-haanstrakade
-Appartement,2,65m,up2rent," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001129804/reitdiepstraat
-Appartement,1,68m,Newport Relocation," 1.725,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172807/van-baerlestraat
-Appartement,1,60m,Out Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172817/schalk-burgerstraat
-Appartement,1,85m,A Plus Apartments," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172825/willemsstraat
-Appartement,2,100m,Beschikbare-huurwoningen," 1.895,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172677/achillesstraat
-Appartement,2,80m,Expathousing.com (Amsterdam) ," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172262/huidekoperstraat
-Appartement,2,95m,Prinsen Residence International," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172579/weteringschans
-Appartement,1,55m,Rots Vast Groep Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172429/buiten-vissersstraat
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,110m,JLG Real Estate," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172537/derde-hugo-de-grootstraat
-Appartement,1,60m,Alcoco.nl," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172618/vechtstraat
-Appartement,3,120m,Alcoco.nl," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172619/teldershof
-Appartement,2,115m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163160/knsm-laan
-Appartement,2,75m,City Housing Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171355/merlijnstraat
-Huurwoning,4,150m,"Roge makelaardij o,g,"," 1.750,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001171588/fluessenlaan
-Appartement,2,104m,Rots Vast Groep Amsterdam," 1.490,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171898/helmholtzstraat
-Appartement,2,110m,Caron &amp; Co Makelaars o.g.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172621/utrechtsestraat
-Appartement,2,65m,City Housing Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000898715/postjeskade
-Appartement,4,95m,City Housing Amsterdam," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001019319/jan-van-galenstraat
-Appartement,1,53m,Broersma Makelaardij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171174/singel
-Appartement,1,75m,Leeghuis," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171206/jeltje-de-bosch-kemperpad
-Appartement,2,64m,Boersma Vastgoed Beheer," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171247/albert-neuhuysstraat
-Appartement,3,90m,A1 Apartment Services," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171297/bolestein
-Appartement,2,90m,Boon Properties," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001148161/scheldestraat
-Appartement,1,60m,Homeseekers Worldwide," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001095351/reguliersdwarsstraat
-Appartement,1,60m,Beschikbare-huurwoningen," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001170594/elandsgracht
-Huurwoning,2,120m,Bianca Combee Housing Service," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001170763/amstelveenseweg
-Appartement,2,80m,Rots Vast Groep Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001170940/galjootstraat
-Appartement,2,108m,EHR Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171006/van-heenvlietlaan
-Appartement,1,40m,up2rent," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001170155/govert-flinckstraat
-Appartement,2,85m,Expathousing.com (Amsterdam) ," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169896/gaffelaarspad
-Appartement,1,60m,HouseHunting Woonbemiddeling Amstelveen," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001170108/bestevaerstraat
-Appartement,2,115m,Out Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001149072/knsm-laan
-Appartement,2,75m,123 Wonen Amsterdam," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169514/ruysdaelkade
-Appartement,2,65m,Diverse makelaars," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169561/huidekoperstraat
-Appartement,2,100m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169769/nassaukade
-Appartement,2,80m,Homeless," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168717/doddendaal
-Appartement,2,80m,Perfect Housing bv," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168889/beethovenstraat
-Appartement,2,90m,Relocation Advisers B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168414/prinsengracht
-Appartement,2,75m,Amstelland Makelaars," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168473/oostenburgervoorstraat
-Woonboot,1,50m,A Plus Apartments," 1.750,-",http://www.pararius.nl/woonboot-te-huur/amsterdam/PR0001168516/prinsengracht
-Appartement,1,55m,MTH Makelaars," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168523/jacob-van-lennepstraat
-Appartement,3,85m,Henk Burger Makelaardij," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169049/van-nijenrodeweg
-Appartement,1,53m,Diverse makelaars," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169153/bloemgracht
-Appartement,1,100m,Amsterdam Housing," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001131946/noorderstraat
-Appartement,2,110m,Galman &amp; Versteeg Makelaars o.g.," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001164863/carnapstraat
-Appartement,2,100m,CS Housing," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168061/tweede-weteringdwarsstraat
-Appartement,1,95m,123 Wonen Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168255/entrepotdok
-Appartement,1,86m,KK Amsterdam," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167980/geldersekade
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,110m,Alcoco.nl," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181523/dintelstraat
-Woonboot,2,50m,Perfect Housing bv," 1.900,-",http://www.pararius.nl/woonboot-te-huur/amsterdam/PR0001167410/nieuwe-achtergracht
-Appartement,1,67m,Perfect Housing bv," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167411/tweede-boomdwarsstraat
-Appartement,2,70m,Amsterdam Housing," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167636/hunzestraat
-Appartement,1,80m,Amsterdam Beautiful Property Rental," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167689/prinsengracht
-Appartement,2,90m,expat2holland," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167744/bolestein
-Appartement,2,90m,Makelaarshuis Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167917/violettenstraat
-Appartement,1,50m,up2rent," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001062944/lange-leidsedwarsstraat
-Huurwoning,4,175m,KK Amsterdam," 1.900,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001167398/schillingdijk
-Appartement,3,100m,Perfect Housing bv," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001166154/van-abbestraat
-Appartement,1,70m,Expathousing.com (Amsterdam) ," 1.795,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001165665/vondelstraat
-Studio,1,0m,EasyRentals," 1.250,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001165905/lange-niezel
-Appartement,2,70m,Expathousing.com (Amsterdam) ," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001161243/dufaystraat
-Appartement,2,60m,Expathousing.com (Amsterdam) ," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001161251/dufaystraat
-Appartement,1,84m,Rotterdam Apartments," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001162572/keizersgracht
-Appartement,1,70m,Relocation Advisers B.V.," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001164020/westerdok
-Appartement,1,80m,Alcoco.nl," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001164830/korte-prinsengracht
-Appartement,3,113m,Relocators," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001165326/groenendaalstraat
-Appartement,1,55m,Relocation Advisers B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001165534/cornelis-schuytstraat
-Appartement,2,110m,Haagen &amp; Partners B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001164088/van-heenvlietlaan
-Appartement,2,134m,Beschikbare-huurwoningen," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001165595/nieuwe-leliestraat
-Appartement,1,80m,Hakkenbroek Housing Company," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001124839/singel
-Appartement,1,60m,Relocation Advisers B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001160035/jacob-obrechtstraat
-Appartement,1,45m,Domica Amsterdam," 1.150,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001160028/bloemgracht
-Appartement,1,75m,Domica Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001160042/bloemgracht
-Appartement,2,86m,My Housing Agent," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001089227/cas-oorthuyskade
-Appartement,2,70m,De Nieuwe Amsterdamsche Makelaardij," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159634/frans-van-mierisstraat
-Appartement,2,41m,EasyRentals," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159709/haarlemmerstraat
-Appartement,2,73m,Amstel Housing," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159731/oldengaarde
-Huurwoning,1,100m,JLG Real Estate," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001159835/j-f-van-hengelstraat
-Huurwoning,3,115m,KK Amsterdam," 2.000,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001097985/durgerdammerdijk
-Appartement,1,63m,Beschikbare-huurwoningen," 1.399,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159056/albert-cuypstraat
-Appartement,1,65m,A Plus Apartments," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159163/lijnbaansgracht
-Appartement,3,110m,A Plus Apartments," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159168/landsmeerderdijk
-Appartement,1,55m,expat2holland," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159337/kinkerstraat
-Huurwoning,3,105m,Hakkenbroek Housing Company," 1.850,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001159507/lumierestraat
-Kamer,1,10m,Efficient Estate," 440,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001158987/ruimzicht
-Appartement,2,70m,CS Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001158494/tweede-weteringdwarsstraat
-Appartement,2,50m,EasyRentals," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001158603/singel
-Appartement,2,60m,City Housing Amsterdam," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001037153/elegaststraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,60m,Renthouse Vastgoed," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001157891/nieuwezijds-kolk
-Appartement,2,110m,First Class Housing," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001157907/eerste-jan-steenstraat
-Appartement,1,55m,Perfect Housing bv," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163075/prinsengracht
-Appartement,1,80m,Perfect Housing bv," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163081/prinseneiland
-Huurwoning,2,100m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001163094/pieter-a-van-heijningestraat
-Appartement,1,70m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163099/keizersgracht
-Appartement,3,80m,JLG Real Estate," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001171495/sassenheimstraat
-Appartement,3,120m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001158057/amstelveenseweg
-Appartement,1,50m,Dinant Makelaardij," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001157512/groenendaalstraat
-Appartement,2,110m,A Plus Apartments," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159145/osdorpplein
-Appartement,3,120m,A Plus Apartments," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159146/landsmeerderdijk
-Appartement,2,80m,Grand Relocation," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168189/sophialaan
-Appartement,2,118m,Inter Immo," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001172085/stadionweg
-Appartement,1,60m,Beschikbare-huurwoningen," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001156882/stromarkt
-Appartement,2,90m,Bianca Combee Housing Service," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001156921/van-tuyll-van-serooskerkenweg
-Appartement,1,75m,Prinsen Residence International," 1.590,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001156325/fokke-simonszstraat
-Appartement,2,85m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001155968/chassestraat
-Appartement,2,115m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163129/cruquiuskade
-Appartement,1,40m,Perfect Housing bv," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163135/runstraat
-Appartement,2,90m,Boon Properties," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001129803/pieter-calandlaan
-Appartement,2,90m,Grand Relocation," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001165637/venetiehof
-Appartement,1,95m,Haagen &amp; Partners B.V.," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001156199/tuinstraat
-Appartement,1,45m,JLG Real Estate," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001155381/tichelstraat
-Appartement,2,135m,Amsterdam Housing," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001154881/kerkstraat
-Appartement,2,95m,Amsterdam Housing," 1.890,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153870/amstelveenseweg
-Appartement,2,80m,Beschikbare-huurwoningen," 1.425,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153294/fraunhoferstraat
-Appartement,2,90m,Beschikbare-huurwoningen," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153301/kranenburg
-Appartement,2,70m,up2rent," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001150719/toldwarsstraat
-Appartement,1,70m,up2rent," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001150804/korte-leidsedwarsstraat
-Appartement,2,60m,CS Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001151903/marnixstraat
-Appartement,2,100m,CityHop/ Corperate Housing Solutions," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001152371/weerdestein
-Appartement,1,110m,CityHop/ Corperate Housing Solutions," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001152368/zaagmolenstraat
-Appartement,1,74m,Capital Locations," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000912113/keizersgracht
-Appartement,1,75m,Capital Locations," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000882036/hugo-de-grootplein
-Garage,1,10m,F.E. Real Estate," 275,-",http://www.pararius.nl/garage-te-huur/amsterdam/PR0001152010/karel-du-jardinstraat
-Appartement,1,49m,Relocators," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001150575/jan-van-galenstraat
-Kamer,1,20m,Turenhout Makelaarsdiensten," 600,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001149678/eurokade
-Appartement,2,105m,Beschikbare-huurwoningen," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001149823/van-leijenberghlaan
-Appartement,1,95m,Keij &amp; Stefels Makelaars en Taxateurs," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001149199/weesperzijde
-Appartement,2,90m,Beschikbare-huurwoningen," 1.445,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001148144/honingen
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,80m,Overbruggingsverhuur.nl," 1.330,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001145633/jisperveldstraat
-Appartement,2,110m,IdealEstate Rental Consultancy," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001145717/oudezijds-voorburgwal
-Appartement,2,90m,IdealEstate Rental Consultancy," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001145740/oudezijds-voorburgwal
-Appartement,1,61m,Rots Vast Groep Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001145880/donker-curtiusstraat
-Appartement,2,85m,A1 Apartment Services," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167574/keizersgracht
-Appartement,1,80m,Perfect Housing bv," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001144940/prins-hendrikkade
-Appartement,1,80m,JLG Real Estate," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001166269/amstelveenseweg
-Appartement,1,100m,EasyRentals," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001153880/willemsparkweg
-Studio,1,80m,ROB Real Estate," 1.500,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001165820/langestraat
-Appartement,2,70m,Beschikbare-huurwoningen," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001142455/nova-zemblastraat
-Appartement,1,85m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001142513/utrechtsedwarsstraat
-Appartement,2,115m,Diverse makelaars," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001142530/singel
-Appartement,1,49m,Houses &amp; Rooms," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167568/binnen-vissersstraat
-Appartement,1,65m,Alcoco.nl," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001164841/katwijkstraat
-Appartement,1,55m,Beschikbare-huurwoningen," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001140998/tweede-van-der-helststraat
-Appartement,1,75m,ROB Real Estate," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001141354/willemsparkweg
-Appartement,1,45m,City Housing Amsterdam," 1.075,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001140917/brouwersgracht
-Appartement,1,125m,Engel &amp; Vlkers," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001140434/knsm-laan
-Appartement,2,120m,JLG Real Estate," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001125665/sumatrakade
-Appartement,2,110m,Beschikbare-huurwoningen," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001137524/frederiksplein
-Appartement,2,80m,up2rent," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001067792/van-breestraat
-Appartement,1,85m,27 Huis Makelaars," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001137247/kempenlaan
-Appartement,1,35m,Prins&amp; Rentals," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001137009/legmeerstraat
-Appartement,2,85m,City Housing Amsterdam," 1.225,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000828850/da-costastraat
-Appartement,2,70m,Rots Vast Groep Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001163705/rokin
-Appartement,1,50m,Beschikbare-huurwoningen," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001135711/zeedijk
-Appartement,2,70m,Homeseekers Worldwide," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001135206/admiraal-de-ruijterweg
-Appartement,2,100m,HOUSINGAGENT.com B.V.," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169866/omval
-Appartement,2,58m,BrinkBorgh Makelaardij," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001134115/boomstraat
-Appartement,3,90m,Beschikbare-huurwoningen," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001133967/van-nijenrodeweg
-Appartement,2,75m,Amsterdam Housing," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001133597/nieuwe-hoogstraat
-Kamer,1,11m,Efficient Estate," 450,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001133587/katrijpstraat
-Appartement,1,70m,Beschikbare-huurwoningen," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001133170/fokke-simonszstraat
-Appartement,1,71m,Houses &amp; Rooms," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001132402/onstein
-Appartement,2,100m,City Housing Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001132431/brouwersgracht
-Appartement,2,90m,Beschikbare-huurwoningen," 1.490,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001132470/ladogameerhof
-Appartement,1,95m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001132506/lijnbaansgracht
-Appartement,2,80m,Diverse makelaars," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001131451/pieter-calandlaan
-Appartement,1,70m,City Housing Amsterdam," 1.375,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001113629/kribbestraat
-Appartement,1,50m,Amsterdam Beautiful Property Rental," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001130328/groenburgwal
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,95m,Koops Makelaardij Amstelveen," 1.995,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001129124/stadhouderskade
-Appartement,1,83m,INTERHOUSE Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001114454/gillis-van-ledenberchstraat
-Appartement,1,25m,up2rent," 900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001001472/kloveniersburgwal
-Appartement,2,75m,Grand Relocation," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001130403/kerkstraat
-Studio,1,24m,brief case hometip," 875,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001120339/brigantijnkade
-Appartement,1,85m,Capital Locations," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001076011/leidsekade
-Appartement,3,70m,Beschikbare-huurwoningen," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001123244/wijsmullerstraat
-Appartement,3,117m,Grand Relocation," 1.175,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001127629/meer-en-vaart
-Appartement,1,70m,City Housing Amsterdam," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001106059/kattengat
-Appartement,1,55m,Beschikbare-huurwoningen," 1.290,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001121224/van-ostadestraat
-Appartement,1,83m,JLG Real Estate," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001121322/tweede-jan-steenstraat
-Appartement,2,110m,Grand Relocation," 1.277,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001126711/jan-van-zutphenstraat
-Appartement,2,92m,up2rent," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001119948/daguerrestraat
-Appartement,2,85m,Amsterdam Housing," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001119567/spuistraat
-Appartement,2,70m,Beschikbare-huurwoningen," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001119718/witte-de-withstraat
-Appartement,1,70m,City Housing Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001118816/hasebroekstraat
-Appartement,1,87m,Beschikbare-huurwoningen," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001118070/herengracht
-Appartement,2,80m,N&D; Real Estate," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001118142/billitonstraat
-Appartement,1,70m,City Housing Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000977076/keizersgracht
-Huurwoning,4,124m,Yamsterdam Apartments," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001116316/adrianus-van-waertweg
-Huurwoning,4,120m,Beschikbare-huurwoningen," 1.900,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001115875/bocholtstraat
-Appartement,2,93m,Jacobus Recourt," 1.515,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001115176/buyskade
-Appartement,3,80m,ROB Real Estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186240/woestduinstraat
-Appartement,1,62m,Perfect Housing bv," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001113804/leidsekruisstraat
-Appartement,1,85m,Beschikbare-huurwoningen," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001114089/warmoesstraat
-Appartement,2,80m,Fris Vastgoed Management," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001166344/rokin
-Appartement,2,90m,Beschikbare-huurwoningen," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001111398/windroosplein
-Appartement,2,123m,Overbruggingsverhuur.nl," 1.690,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001110736/sijlhoff
-Appartement,1,80m,Beschikbare-huurwoningen," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001110229/wilhelminastraat
-Appartement,1,85m,Beschikbare-huurwoningen," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001109408/osdorperweg
-Appartement,1,60m,Amsterdam Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001108942/brouwersgracht
-Appartement,1,55m,Hamilton Vastgoed," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001108852/graaf-florisstraat
-Appartement,1,70m,A1 Executive Estate," 1.795,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001109004/haarlemmerdijk
-Appartement,2,75m,up2rent," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001056449/ceintuurbaan
-Appartement,2,43m,Broersma Makelaardij," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185523/singel
-Appartement,2,90m,Amsterdam Housing," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001107197/omval
-Appartement,1,50m,INTERHOUSE Amsterdam," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001106575/rokin
-Appartement,1,80m,Eurostone real estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001105550/noorderstraat
-Appartement,2,50m,Beschikbare-huurwoningen," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001098139/baffinstraat
-Appartement,2,75m,City Housing Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001016634/koggestraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,2,80m,Homeseekers Worldwide," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001095317/nassaukade
-Appartement,1,55m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001094865/utrechtsedwarsstraat
-Appartement,1,88m,Keizerskroon makelaars," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001093316/keizersgracht
-Appartement,2,100m,Yamsterdam Apartments," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001089636/oudezijds-voorburgwal
-Appartement,2,90m,VGW vastgoed," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001082292/knsm-laan
-Appartement,1,35m,Connect Your Home B.V," 772,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001081618/naritaweg
-Appartement,1,41m,Connect Your Home B.V," 887,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001081625/naritaweg
-Appartement,2,75m,Tijdelijk Twee Woningen," 975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001108063/lou-jansenplein
-Studio,1,25m,Connect Your Home B.V," 550,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001080097/naritaweg
-Studio,1,29m,Connect Your Home B.V," 697,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001080134/naritaweg
-Appartement,1,65m,Beschikbare-huurwoningen," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001078796/van-beuningenstraat
-Appartement,1,85m,City Housing Amsterdam," 1.175,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001078864/amstel
-Appartement,1,55m,Perfect Housing bv," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001078108/bethanienstraat
-Appartement,1,90m,Perfect Housing bv," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001053700/bronckhorststraat
-Appartement,1,120m,Beschikbare-huurwoningen," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001077669/oudezijds-voorburgwal
-Appartement,1,65m,Amsterdam Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001077228/brouwersgracht
-Appartement,2,85m,City Hideaways," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001076548/zieseniskade
-Appartement,1,70m,AHA (Another Home Abroad)," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001072679/johannes-verhulststraat
-Appartement,2,90m,Beschikbare-huurwoningen," 1.580,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001071443/biesboschstraat
-Appartement,2,65m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001068327/binnenkant
-Appartement,2,65m,City Housing Amsterdam," 1.275,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000886365/curacaostraat
-Huurwoning,3,100m,Beschikbare-huurwoningen," 1.800,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001062306/thomas-a-kempisstraat
-Kamer,1,20m,Houses &amp; Rooms," 550,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001061648/lambertus-zijlplein
-Appartement,1,70m,Beschikbare-huurwoningen," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001061169/jan-evertsenstraat
-Appartement,1,88m,EHR Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001062670/paul-schuitemahof
-Appartement,2,110m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001060109/nieuwe-kerkstraat
-Appartement,2,96m,Grand Relocation," 1.065,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001065236/jan-van-zutphenstraat
-Appartement,2,85m,Alcoco.nl," 1.449,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001010924/arent-janszoon-ernststraat
-Appartement,1,54m,Amsterdam Beautiful Property Rental," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001057108/nieuwe-hoogstraat
-Appartement,3,109m,Grand Relocation," 1.009,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001062362/meer-en-vaart
-Appartement,2,90m,INTERHOUSE Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001019235/ijburglaan
-Appartement,2,50m,HouseHunting Woonbemiddeling Amstelveen," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001048048/amstelveenseweg
-Appartement,2,101m,Fris Vastgoed Management," 1.687,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001046160/artemisstraat
-Appartement,2,95m,Remko Bijvoet Makelaardij," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001043179/europaplein
-Appartement,1,65m,Diverse makelaars," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001039893/keizersgracht
-Appartement,1,60m,Turenhout Makelaarsdiensten," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001038982/h-gerhardstraat
-Appartement,1,70m,Amsterdam Beautiful Property Rental," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000996693/gijsbrecht-van-ijselsteinstraat
-Appartement,1,65m,Amsterdam Housing," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001037246/haringpakkerssteeg
-Appartement,2,90m,Domica Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001036486/van-nijenrodeweg
-Appartement,2,105m,CityHop/ Corperate Housing Solutions," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001032335/beysterveld
-Koopstudio,,0m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,45m,Mensink Makelaardij," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001026742/nieuwe-herengracht
-Appartement,2,85m,Boek 7 Amsterdam," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001025014/albatrospad
-Appartement,2,70m,Dan Vastgoed," 1.495,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001023883/van-ostadestraat
-Appartement,2,93m,Prins&amp; Rentals," 1.990,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001000893/marie-heinekenplein
-Appartement,2,110m,Expathousing.com (Amsterdam) ," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000981252/bilderdijkkade
-Appartement,2,70m,Amsterdam Housing," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001013834/staalkade
-Huurwoning,3,110m,HousingNet," 1.200,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001012200/m-j-granpre-moliereplein
-Appartement,2,86m,Perfect Housing bv," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000996494/da-costastraat
-Appartement,1,70m,Makelaarshuis Amsterdam," 1.825,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000992904/handboogstraat
-Appartement,1,60m,Perfect Housing bv," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001007799/herenstraat
-Kamer,1,13m,Turenhout Makelaarsdiensten," 600,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001001268/meentstraat
-Kamer,1,15m,Turenhout Makelaarsdiensten," 600,-",http://www.pararius.nl/kamer-te-huur/amsterdam/PR0001001374/hoogheemraadweg
-Appartement,1,65m,Perfect Housing bv," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000996492/vogelenzangstraat
-Appartement,1,70m,Grand Relocation," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001002109/hobbemakade
-Appartement,2,85m,Perfect Housing bv," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000992555/esplanade-de-meer
-Appartement,1,58m,ROB Real Estate," 950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000989458/radioweg
-Appartement,2,88m,INTERHOUSE Amsterdam," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000980393/bakkersstraat
-Appartement,1,85m,Wens Makelaar," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000977555/vierwindenstraat
-Appartement,2,65m,Boek 7 Amsterdam," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000975546/grianestraat
-Appartement,2,109m,Grand Relocation," 1.188,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000977688/meer-en-vaart
-Appartement,1,55m,Luxor Wonen," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000968330/singel
-Appartement,2,90m,Rots Vast Groep Amsterdam," 1.475,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000960685/balthasar-floriszstraat
-Appartement,1,85m,Expathousing.com (Amsterdam) ," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000955776/sumatrakade
-Appartement,2,100m,Amsterdam Rental Brokers," 1.295,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000953891/belgieplein
-Appartement,2,70m,HousingXL.nl," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000937719/stadionweg
-Appartement,2,80m,Hakkenbroek Housing Company," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000934766/saxenburgerstraat
-Appartement,2,90m,Boek 7 Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000912598/amstel
-Appartement,1,90m,Real Estate Services," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000925118/keizersgracht
-Huurwoning,3,120m,Hakkenbroek Housing Company," 1.750,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0000922416/stuurmankade
-Appartement,1,70m,Amstelland Makelaars," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000913842/blaeu-erf
-Huurwoning,1,80m,A1 Executive Estate," 1.990,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0000913071/hodenpijlkade
-Appartement,3,130m,Boek 7 Amsterdam," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000912600/amstel
-Appartement,2,70m,+31 Vastgoed," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185776/javastraat
-Appartement,2,85m,First Class Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000892008/ferdinand-bolstraat
-Appartement,3,90m,Houses &amp; Rooms," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000885215/baden-powellweg
-Appartement,2,75m,First Class Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000861122/westerdoksdijk
-Appartement,2,100m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000856786/nieuwezijds-voorburgwal
-Appartement,2,90m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000856866/funenpark
-Appartement,2,100m,A1 Executive Estate," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000843653/stadionkade
-Appartement,1,50m,Amstelland Makelaars," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000838544/celsiusstraat
-Koopstudio,,0m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
-Appartement,1,73m,NooreState," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000810132/ferdinand-bolstraat
-Appartement,2,80m,Amstel Housing," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000810419/schierstins
-Appartement,3,100m,Perfect Housing bv," 1.625,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000788487/hageland
-Appartement,3,110m,Amstelland Makelaars," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000784657/kiefskamp
-Appartement,1,70m,AHA (Another Home Abroad)," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000778602/bloemgracht
-Appartement,2,85m,AHA (Another Home Abroad)," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000778624/spuistraat
-Appartement,1,105m,NooreState," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000748667/leidsekade
-Appartement,2,120m,Perfect Housing bv," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000735498/sumatrakade
-Appartement,2,90m,HOUSINGAGENT.com B.V.," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000724830/gaffelaarspad
-Appartement,2,120m,Perfect Housing bv," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000720748/van-breestraat
-Appartement,2,65m,Valerius Rentals," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000719341/saenredamstraat
-Appartement,2,70m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000706830/kerkstraat
-Huurwoning,2,90m,Perfect Housing bv," 1.300,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0000697075/gerda-brautigamstraat
-Appartement,1,80m,Perfect Housing bv," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000688419/silodam
-Appartement,2,100m,NooreState," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000691884/vondelstraat
-Appartement,2,100m,Amstel Housing," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000686770/omval
-Appartement,2,70m,Perfect Housing bv," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000666794/nassaukade
-Appartement,1,90m,Perfect Housing bv," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000648529/bogortuin
-Appartement,1,70m,Perfect Housing bv," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000635535/vossiusstraat
-Appartement,1,50m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000633251/pieter-baststraat
-Appartement,1,100m,Expathousing.com (Amsterdam) ," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000631460/vondelstraat
-Appartement,1,0m,My Housing Agent," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000631042/vondelstraat
-Appartement,2,95m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000627821/lijnbaansstraat
-Appartement,2,95m,Dutch Housing Centre BV," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000625520/keizersgracht
-Appartement,1,75m,Perfect Housing bv," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000626341/kerkstraat
-Appartement,1,85m,Grand Relocation," 1.550,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000606104/koninginneweg
-Appartement,1,80m,Haagen &amp; Partners B.V.," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000026298/weteringschans
+Straat,Soort,Kamers,Oppervlak,Makelaar,Huurprijs,Link
+Achtergracht  ,Onbekend,5,95m,IRR HousingNet,"2.250,00",
+Schubertstraat  ,Onbekend,4,130m,IRR HousingNet,"2.250,00",
+Utrechtsedwarsstraat  ,Onbekend,3,90m,IRR HousingNet,"1.800,00",
+Purperhoedenveem 80 ,Penthouse,3,150m,Vest,"1.730,00",
+IJburglaan 602 ,Maisonnette,,215m,Vest,"1.551,00",
+IJburglaan 602 ,Maisonnette,,215m,Vest,"1.551,00",
+Ecuplein  ,Onbekend,2,100m,IRR HousingNet,"1.400,00",
+Overhoeksparklaan 260 ,Appartement/Flat,3,98m,Vest,"1.393,00",
+Overhoeksparklaan 260 ,Appartement/Flat,3,98m,Vest,"1.393,00",
+Overhoeksparklaan 260 ,Appartement/Flat,3,98m,Vest,"1.393,00",
+Veemkade 508 ,Appartement/Flat,,140m,Vest,"1.295,00",
+Veemkade 508 ,Appartement/Flat,,140m,Vest,"1.295,00",
+Veemkade 488 ,Appartement/Flat,,142m,Vest,"1.225,00",
+Haarlemmerweg  ,Onbekend,3,75m,IRR HousingNet,"1.200,00",
+Haarlemmerweg  ,Onbekend,3,75m,IRR HousingNet,"1.200,00",
+Zuidelijke Wandelweg 6 ,Onbekend,,108m,Vest,"1.060,00",
+Rondeel 27 ,Appartement/Flat,3,76m,C,"1.039,28",
+Bert Haanstrakade 24 ,Appartement/Flat,3,100m,Vest,"1.035,00",
+Galjootstraat 115 ,Eengezinswoning,4,71m,Rochdal,"1.008,17",
+Rondeel 121 ,Appartement/Flat,3,79m,C,"1.004,46",
+Rondeel 21 ,Aanleunwoning,3,79m,C,"1.004,46",
+Rondeel 93 ,Aanleunwoning,3,79m,C,"1.004,46",
+Kalverstraat  ,Onbekend,2,95m,IRR HousingNet,"2.500,00",
+Kalverstraat  ,Onbekend,2,95m,IRR HousingNet,"2.500,00",
+Schubertstraat  ,Onbekend,4,130m,IRR HousingNet,"2.250,00",
+Utrechtsedwarsstraat  ,Onbekend,3,90m,IRR HousingNet,"1.800,00",
+Utrechtsedwarsstraat  ,Onbekend,3,90m,IRR HousingNet,"1.800,00",
+Utrechtsedwarsstraat  ,Onbekend,3,90m,IRR HousingNet,"1.800,00",
+Purperhoedenveem 80 ,Penthouse,3,150m,Vest,"1.730,00",
+Purperhoedenveem 80 ,Penthouse,3,150m,Vest,"1.730,00",
+IJburglaan 602 ,Maisonnette,,215m,Vest,"1.551,00",
+Durgerdammerdijk  ,Appartement/Flat,4,60m,IRR HousingNet,"1.500,00",
+Durgerdammerdijk  ,Appartement/Flat,4,60m,IRR HousingNet,"1.500,00",
+Ecuplein  ,Onbekend,2,100m,IRR HousingNet,"1.400,00",
+Overhoeksparklaan 260 ,Appartement/Flat,3,98m,Vest,"1.393,00",
+Veemkade 508 ,Appartement/Flat,,140m,Vest,"1.295,00",
+Veemkade 488 ,Appartement/Flat,,142m,Vest,"1.225,00",
+Haarlemmerweg  ,Onbekend,3,75m,IRR HousingNet,"1.200,00",
+Zuidelijke Wandelweg 6 ,Onbekend,,108m,Vest,"1.060,00",
+Rondeel 27 ,Appartement/Flat,3,76m,C,"1.039,28",
+Bert Haanstrakade 24 ,Appartement/Flat,3,100m,Vest,"1.035,00",
+Claude Debussylaan 201 ,Onbekend,,90m,Vest,"1.030,00",
+Galjootstraat 115 ,Eengezinswoning,4,71m,Rochdal,"1.008,17",
+Rondeel 121 ,Appartement/Flat,3,79m,C,"1.004,46",
+Rondeel 21 ,Aanleunwoning,3,79m,C,"1.004,46",
+Rondeel 93 ,Aanleunwoning,3,79m,C,"1.004,46",
+Rondeel 29 ,Appartement/Flat,3,79m,C,"1.001,96",
+Glitterstraat 19 ,Eengezinswoning,4,69m,Rochdal,"1.000,00",
+Kikkensteinhof 6 ,Eengezinswoning,4,86m,Rochdal,"994,32",
+Kikkensteinhof 6 ,Eengezinswoning,4,86m,Rochdal,"994,32",
+Kikkensteinhof 6 ,Eengezinswoning,4,86m,Rochdal,"994,32",
+Kikkensteinhof 6 ,Eengezinswoning,4,86m,Rochdal,"994,32",
+Kousenbandstraat 25 ,Eengezinswoning,4,80m,Rochdal,"983,49",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Rondeel 115 ,Aanleunwoning,3,76m,C,"977,59",
+Bijlmerdreef 851 ,Maisonnette,5,72m,Rochdal,"965,65",
+Bijlmerdreef 851 ,Maisonnette,5,72m,Rochdal,"965,65",
+Bijlmerdreef 851 ,Maisonnette,5,72m,Rochdal,"965,65",
+Lontarpalmstraat 47 ,Eengezinswoning,3,80m,Rochdal,"963,64",
+Laan van Vlaanderen 121 ,Bovenwoning,3,65m,Rochdal,"959,99",
+J.M. den Uylstraat 4 ,Eengezinswoning,3,,Rochdal,"958,13",
+J.M. den Uylstraat 4 ,Eengezinswoning,3,,Rochdal,"958,13",
+C v Tussenbroekstr 5 ,Eengezinswoning,4,70m,Rochdal,"934,84",
+M. Gandhilaan 29 ,Eengezinswoning,,117m,Vest,"906,00",
+M. Gandhilaan 29 ,Eengezinswoning,,117m,Vest,"906,00",
+Romerostraat 19 ,Eengezinswoning,,115m,Vest,"906,00",
+Romerostraat 19 ,Eengezinswoning,,115m,Vest,"906,00",
+Romerostraat 19 ,Eengezinswoning,,115m,Vest,"906,00",
+Pieter Calandlaan 1361 ,Appartement/Flat,,110m,Vest,"895,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Bijlmerdreef 1088 ,Onbekend,3,132m,Vest,"886,00",
+Willem Kromhoutstraat 19 ,Eengezinswoning,4,60m,Rochdal,"883,13",
+Johan Huizingalaan 489 ,Onbekend,,89m,Vest,"875,00",
+Pieter Calandlaan 1337 ,Appartement/Flat,,110m,Vest,"875,00",
+Sandinostraat 2 ,Eengezinswoning,,108m,Vest,"875,00",
+Sandinostraat 3 ,Eengezinswoning,,108m,Vest,"875,00",
+Mijndenhof 178 ,Eengezinswoning,,82m,Vest,"871,00",
+Wethouder Driessenstraat 22 ,Eengezinswoning,,118m,Vest,"871,00",
+Wethouder Driessenstraat 22 ,Eengezinswoning,,118m,Vest,"871,00",
+Spakenburgstraat 107 ,Eengezinswoning,,109m,Vest,"861,00",
+Heimansweg 39 ,Eengezinswoning,3,63m,Ym,"856,70",
+Wethouder Driessenstraat 109 ,Eengezinswoning,,118m,Vest,"851,00",
+Wethouder Driessenstraat 43 ,Eengezinswoning,,118m,Vest,"846,00",
+Bijlmerdreef 1074 ,Maisonnette,4,104m,Vest,"842,00",
+Laan van Vlaanderen 23 ,Benedenwoning,3,69m,Rochdal,"828,76",
+Spakenburgstraat 75 ,Eengezinswoning,,87m,Vest,"799,00",
+Speuldestraat 34 ,Eengezinswoning,,87m,Vest,"786,00",
+Kijkduinstraat 54 1,Appartement/Flat,3,56m,Stadgenoot,"641,26",
+Appartement,,1,85m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176429/westerdoksdijk
+Appartement,,1,85m,Perfect Housing bv," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176429/westerdoksdijk
+Appartement,,1,90m,ResidenceDesk," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186993/prinsengracht
+Appartement,,2,60m,Valerius Rentals," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186986/dufaystraat
+Huurwoning,,3,110m,Koops Makelaardij," 1.600,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001186870/peter-wotkehof
+Appartement,,1,67m,123 Wonen Amsterdam," 1.100,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177849/loenermark
+Appartement,,1,60m,RE/MAX Pro," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186527/pieter-aertszstraat
+Appartement,,1,80m,RE/MAX Pro," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186444/zoomstraat
+Appartement,,2,70m,Prins&amp; Rentals," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186385/ijselstraat
+Appartement,,2,75m,Expathousing.com (Amsterdam) ," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186366/zocherstraat
+Appartement,,2,70m,JLG Real Estate," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186242/westerdoksdijk
+Appartement,,1,70m,Bianca Combee Housing Service," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186209/gustav-mahlerplein
+Appartement,,1,60m,RandstadWonen Haarlem," 1.050,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186189/marconistraat
+Appartement,,1,70m,Your Home Makelaardij," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186113/nicolaas-maesstraat
+Appartement,,2,85m,Inter Immo," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186108/van-nijenrodeweg
+Appartement,,2,72m,Expathousing.com (Amsterdam) ," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185894/eerste-helmersstraat
+Appartement,,2,72m,Expathousing.com (Amsterdam) ," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185894/eerste-helmersstraat
+Appartement,,1,65m,Amsterdam Housing," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001185775/johannes-verhulststraat
+Huurwoning,,3,115m,Vesteda Noord West," 906,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001178384/romerostraat
+Appartement,,1,95m,Grand Apartments Amsterdam," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178197/oudeschans
+Huurwoning,,1,100m,Vesteda Noord West," 1.215,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001181997/purperhoedenveem
+Appartement,,2,75m,Domica Amsterdam," 1.075,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184773/loenermark
+Appartement,,3,90m,B.V. AHAM," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184631/rooseveltlaan
+Appartement,,2,100m,City Homes," 1.400,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184600/zeeburgerkade
+Appartement,,1,60m,JLG Real Estate," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184118/tweede-jan-van-der-heijdenstraat
+Appartement,,2,75m,MovingIn," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184109/hogeweg
+Appartement,,2,95m,Partner in real estate," 1.900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001184100/derde-looiersdwarsstraat
+Appartement,,1,85m,City Housing Amsterdam," 1.875,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183827/dam
+Appartement,,1,55m,Unlimited Housing," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183583/olympiaweg
+Huurwoning,,4,140m,Amstel Property Agency," 1.800,-",http://www.pararius.nl/huurwoning-te-huur/amsterdam/PR0001183466/le-tourmalet
+Appartement,,2,98m,JLG Real Estate," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183262/carnapstraat
+Studio,,1,40m,Houses &amp; Rooms," 1.250,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001183057/lange-niezel
+Koopstudio,,,m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
+Appartement,,2,86m,Jacobus Recourt," 900,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001183020/wiltzanghlaan
+Appartement,,2,70m,Amsterdamse Maatschappij," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182775/overtoom
+Appartement,,1,80m,Amsterdamse Maatschappij," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182774/groenburgwal
+Appartement,,2,90m,Living Today Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182221/wijttenbachstraat
+Appartement,,2,90m,Living Today Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182221/wijttenbachstraat
+Koopstudio,,,m,De Studio,"&euro; 395,- per maand",http://www.de-studio.nl/woningen/aanbod/?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
+Appartement,,1,60m,Haagen &amp; Partners B.V.," 1.600,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001182196/marnixkade
+Appartement,,1,50m,DSTRCT Amsterdam," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181859/prinsengracht
+Appartement,,2,91m,123 Wonen Amsterdam," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181788/staalstraat
+Appartement,,1,90m,Amsterdam Beautiful Property Rental," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181419/johannes-vermeerplein
+Appartement,,2,95m,Amsterdam Rental Brokers," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181075/jacques-veltmanstraat
+Appartement,,1,100m,Haagen &amp; Partners B.V.," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181057/rietwijkerstraat
+Appartement,,2,100m,expat2holland," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181008/haringvlietstraat
+Appartement,,3,110m,020Apartment," 1.522,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001181007/buys-ballotstraat
+Appartement,,2,75m,e-Xpats," 1.200,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001186218/boutenburg
+Appartement,,2,60m,HB Housing," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179936/jan-van-schaffelaarplantsoen
+Appartement,,3,110m,A Plus Apartments," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179771/esplanade-de-meer
+Appartement,,1,87m,INTERHOUSE Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179639/javaplein
+Appartement,,2,130m,Haagen &amp; Partners B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179324/schinkelkade
+Appartement,,1,80m,Owenfield," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001179302/nieuwe-nieuwstraat
+Appartement,,1,85m,SPOT Relocations," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001178892/egelantiersgracht
+Appartement,,2,80m,KK Amsterdam," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177768/korte-leidsedwarsstraat
+Appartement,,3,100m,Linger Onroerend Goed Bemiddeling," 1.250,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001177358/baden-powellweg
+Appartement,,1,70m,Amstelland Makelaars," 1.450,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000675260/nieuwezijds-voorburgwal
+Appartement,,1,90m,Perfect Housing bv," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000674874/utrechtsedwarsstraat
+Koopstudio,,,m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
+Appartement,,2,65m,A Plus Apartments," 1.349,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001176104/grianestraat
+Appartement,,2,100m,Relocation Advisers B.V.," 1.800,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001175918/singel
+Appartement,,1,m,G&D;&Y; Housing," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001173283/ruysdaelstraat
+Koopstudio,,,m,Villa Mokum,"&euro; 425,- per maand",http://www.villamokum.nl/woningen/aanbod?utm_source=pararius&utm_medium=cpm&utm_campaign=projectpromotie
+Appartement,,4,95m,City Housing Amsterdam," 1.975,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001019319/jan-van-galenstraat
+Appartement,,2,75m,123 Wonen Amsterdam," 1.950,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169514/ruysdaelkade
+Appartement,,2,65m,Diverse makelaars," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001169561/huidekoperstraat
+Appartement,,2,90m,Relocation Advisers B.V.," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168414/prinsengracht
+Appartement,,1,95m,123 Wonen Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001168255/entrepotdok
+Appartement,,2,41m,EasyRentals," 1.850,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001159709/haarlemmerstraat
+Appartement,,1,75m,Prinsen Residence International," 1.590,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001156325/fokke-simonszstraat
+Appartement,,2,60m,CS Housing," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001151903/marnixstraat
+Appartement,,1,74m,Capital Locations," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000912113/keizersgracht
+Appartement,,1,61m,Rots Vast Groep Amsterdam," 1.500,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001145880/donker-curtiusstraat
+Appartement,,2,85m,A1 Apartment Services," 1.750,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001167574/keizersgracht
+Appartement,,1,80m,Perfect Housing bv," 1.650,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001144940/prins-hendrikkade
+Studio,,1,24m,brief case hometip," 875,-",http://www.pararius.nl/studio-te-huur/amsterdam/PR0001120339/brigantijnkade
+Appartement,,2,92m,up2rent," 1.350,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001119948/daguerrestraat
+Appartement,,1,80m,Beschikbare-huurwoningen," 1.700,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001110229/wilhelminastraat
+Appartement,,1,70m,AHA (Another Home Abroad)," 2.000,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001072679/johannes-verhulststraat
+Appartement,,2,65m,City Housing Amsterdam," 1.275,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0000886365/curacaostraat
+Appartement,,1,88m,EHR Amsterdam," 1.300,-",http://www.pararius.nl/appartement-te-huur/amsterdam/PR0001062670/paul-schuitemahof
