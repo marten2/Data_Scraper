@@ -135,7 +135,7 @@ def extract_pararius():
     appartement_l = []
     
     for i in range(50):
-        TARGET_URL = "http://www.pararius.nl/huurwoningen/amsterdam/0-2000/page-"+str(i)
+        TARGET_URL = "http://www.pararius.nl/huurwoningen/amsterdam/0-2000/page-"+str(i+1)
 
         url = URL(TARGET_URL)
         # Download HTML
@@ -152,7 +152,7 @@ def extract_pararius():
         for e in results:
             l = []
             
-            print len(e("div.adressTitle"))
+            print len(e("div.content"))
 
             # Straat
             l.append(e("h6")[0].content)
