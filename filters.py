@@ -3,29 +3,57 @@
 '''
 This is a helper file with filter codes for appartement scraper.py
 '''
+import re
 
-def word_filter(words, appartements_list):
+def word_filter(words_list, appartements_list):
 	'''
-	words is a list of words to filter everythin on.
-	appartement_list: ['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huur']
+	words_list is a list of words to filter everythin on.
+	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
 	'''
 	output = []
 	index = 0
 	for appartement in appartements_list:
-		for data in appart:
-			if word not in data:
-				output.append(appartements_list[index])
+		add_appartement = True
+		
+		for data in appartement:
+			for word in words_list:
+				if word in data:
+					add_appartement = False
+		
+		if add_appartement:
+			output.append(appartements_list[index])
+		
 		index += 1
 
 	return output
 
 def size_filter(min_size, appartements_list):  #2 4
 	'''
-
+	min_size is the minimum square meters of the house
 	appartement_list: ['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huur']
 	'''
-	if size < min_size:
-		return True
-	return False 
+	output = []
+	index = 0
+	for appartement in appartement_list:
+		try:
+			size_int = int(re.findall('\d+', appartement[2])[0])
+		except Exception as inst:
+			print type(inst)
+			print inst
+			output.append(appartement_list[index])
+			continue
+		if size_int > min_size:
+			output.append(appartement_list[index])
+		index += 1
+	return output
 
-def 
+
+# test function foor the codes
+if __name__ == '__main__':
+	appartement1 = ['Straat', 'Soort', '60m', 'Makelaar', 'Huurprijs', 'Link']
+	appartement2 = ['Straat', 'Soort', '70m', 'job', 'Huurprijs', 'Link']
+	appartement3 = ['Straat']
+	appartement_list = [appartement1, appartement2, appartement3]
+	word_list = ['job']
+	print word_filter(word_list, appartement_list)
+	print size_filter(65, appartement_list)

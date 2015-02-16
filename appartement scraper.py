@@ -14,14 +14,8 @@ OUTPUT_CSV = 'appartementen.csv'
 
 def extract_rooftrack():    
     '''
-    Extract a list of highest ranking TV series from DOM (of IMDB page).
-
-    Each TV series entry should contain the following fields:
-    - TV Title
-    - Ranking
-    - Genres (comma separated if more than one)
-    - Actors/actresses (comma separated if more than one)
-    - Runtime (only a number!)
+    extract list of appartements from rooftrack.nl with:
+    'Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'
     '''
     appartement_l = []
     
@@ -77,14 +71,8 @@ def extract_rooftrack():
 
 def extract_stadgenoot():    
     '''
-    Extract a list of highest ranking TV series from DOM (of IMDB page).
-
-    Each TV series entry should contain the following fields:
-    - TV Title
-    - Ranking
-    - Genres (comma separated if more than one)
-    - Actors/actresses (comma separated if more than one)
-    - Runtime (only a number!)
+    extract list of appartements from stadgenoot.nl with:
+    'Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'
     '''
     appartement_l = []
 
@@ -124,14 +112,8 @@ def extract_stadgenoot():
 
 def extract_pararius():    
     '''
-    Extract a list of highest ranking TV series from DOM (of IMDB page).
-
-    Each TV series entry should contain the following fields:
-    - TV Title
-    - Ranking
-    - Genres (comma separated if more than one)
-    - Actors/actresses (comma separated if more than one)
-    - Runtime (only a number!)
+    extract list of appartements from pararius.nl with:
+    'Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'
     '''
     appartement_l = []
     
