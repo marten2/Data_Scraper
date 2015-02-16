@@ -40,6 +40,7 @@ def size_filter(min_size, appartement_list):  #2 4
 		except Exception as inst:
 			print type(inst)
 			print inst
+			print "size\n"
 			output.append(appartement_list[index])
 			continue
 		if size_int >= min_size:
@@ -59,6 +60,7 @@ def room_filter(min_rooms, appartement_list):  #2 4
 		except Exception as inst:
 			print type(inst)
 			print inst
+			print "rooms\n"
 			output.append(appartement_list[index])
 			continue
 		if size_int >= min_rooms:
