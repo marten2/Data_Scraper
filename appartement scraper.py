@@ -37,10 +37,10 @@ def extract_rooftrack():
         for e in results:
             l = []
 
-            # Plaats
-            plaats = e("p.plaatswijk")[0].content
-            if not "Amsterdam" in plaats:
-                continue
+##            # Plaats
+##            plaats = e("p.plaatswijk")[0].content
+##            if not "Amsterdam" in plaats:
+##                continue
 
             # Straat
             l.append(e("h6")[0].content)
@@ -61,6 +61,8 @@ def extract_rooftrack():
             # Huur
             huur = e("strong")[0].content.encode("ascii","ignore")
             l.append(huur.strip())
+            # Link
+            l.append("")
             
             ascii_l = []
             for c in l:
@@ -102,6 +104,8 @@ def extract_stadgenoot():
         l.append("Stadgenoot")
         # Huur
         l.append(e("div.object-price")[0].content.strip())
+        # Link
+        l.append("")
             
         ascii_l = []
         for c in l:
@@ -149,6 +153,8 @@ def extract_pararius():
 
             comb2 = e("div.deform")[0].content
             comb2_s = comb2.split('-')
+            # Soort
+            l.append("")
             # Kamers
             try: l.append(comb2_s[2].strip()[0])
             except: l.append("")
@@ -175,7 +181,7 @@ def extract_pararius():
 
 def save_csv(f, appartement_l):
     writer = csv.writer(f)
-    writer.writerow(['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'])
+    writer.writerow(['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'])
     for l in appartement_l:
         writer.writerow(l)
 
