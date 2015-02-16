@@ -30,7 +30,26 @@ def word_filter(words_list, appartements_list):
 def size_filter(min_size, appartements_list):  #2 4
 	'''
 	min_size is the minimum square meters of the house
-	appartement_list: ['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huur']
+	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
+	'''
+	output = []
+	index = 0
+	for appartement in appartement_list:
+		try:
+			size_int = int(re.findall('\d+', appartement[3])[0])
+		except Exception as inst:
+			print type(inst)
+			print inst
+			output.append(appartement_list[index])
+			continue
+		if size_int > min_size:
+			output.append(appartement_list[index])
+		index += 1
+	return output
+
+def rooms_filter(min_rooms, appartements_list):  #2 4
+	'''
+	appartement_list is a list of data sorted like this: ['Straat', 'Soort', 'Kamers', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link']
 	'''
 	output = []
 	index = 0
@@ -42,16 +61,15 @@ def size_filter(min_size, appartements_list):  #2 4
 			print inst
 			output.append(appartement_list[index])
 			continue
-		if size_int > min_size:
+		if size_int > rooms:
 			output.append(appartement_list[index])
 		index += 1
 	return output
 
-
 # test function foor the codes
 if __name__ == '__main__':
-	appartement1 = ['Straat', 'Soort', '60m', 'Makelaar', 'Huurprijs', 'Link']
-	appartement2 = ['Straat', 'Soort', '70m', 'job', 'Huurprijs', 'Link']
+	appartement1 = ['Straat', 'Soort', '4', '60m', 'Makelaar', 'Huurprijs', 'Link']
+	appartement2 = ['Straat', 'Soort', '2', '70m', 'Makelaar', 'Huurprijs', 'Link']
 	appartement3 = ['Straat']
 	appartement_list = [appartement1, appartement2, appartement3]
 	word_list = ['job']
