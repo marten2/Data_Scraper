@@ -185,19 +185,20 @@ def save_csv(f, appartement_l):
     for l in appartement_l:
         writer.writerow(l)
 
-if __name__ == '__main__':
-
+def get_appartements():
     # Extract the appartements
     appartement_l = []
-##    print "Extracting Rooftrack.nl..."
-##    for appartement in extract_rooftrack():
-##        appartement_l.append(appartement)
-##    print "Extracting Stadgenoot.nl..."
-##    for appartement in extract_stadgenoot():
-##        appartement_l.append(appartement)
+    print "Extracting Rooftrack.nl..."
+    for appartement in extract_rooftrack():
+        appartement_l.append(appartement)
+    print "Extracting Stadgenoot.nl..."
+    for appartement in extract_stadgenoot():
+        appartement_l.append(appartement)
     print "Extracting Pararius.nl..."
     for appartement in extract_pararius():
-        appartement_l.append(appartement)
+        appartement_l.append(appartement)    
+
+if __name__ == '__main__':
 
     # Write the CSV file to disk (including a header)
     with open(OUTPUT_CSV, 'wb') as output_file:
