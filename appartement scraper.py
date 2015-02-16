@@ -149,6 +149,7 @@ def extract_pararius():
             break
 
         print "Page ",i+1
+
         for e in results:
             l = []
             
@@ -169,13 +170,16 @@ def extract_pararius():
             comb2 = e("div.deform")[0].content
             comb2_s = comb2.split('-')
             # Kamers
-            l.append(comb2_s[2].strip()[0])
+            try: l.append(comb2_s[2].strip()[0])
+            except: l.append("")
             # Opp
-            l.append(comb2_s[3].split(' ')[1]+"m")
+            try: l.append(comb2_s[3].split(' ')[1]+"m")
+            except: l.append("0m")
             # Makelaar
             l.append(e("span.spannend a")[0].content)
             # Huur
-            l.append(e("strong.price b")[0].content)
+            huur = e("strong.price b")[0].content
+            l.append(huur.strip('Vanaf '))
             # Link
             link = comb_l.attr['href']
             if not 'http' in link: link = "http://www.pararius.nl"+link
@@ -191,11 +195,8 @@ def extract_pararius():
     return appartement_l
 
 def save_csv(f, appartement_l):
-    '''
-    Output a CSV file containing highest ranking TV-series.
-    '''
     writer = csv.writer(f)
-    writer.writerow(['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huur'])
+    writer.writerow(['Straat', 'Soort', 'Oppervlak', 'Makelaar', 'Huurprijs', 'Link'])
     for l in appartement_l:
         writer.writerow(l)
 
@@ -209,6 +210,7 @@ if __name__ == '__main__':
 ##    print "Extracting Stadgenoot.nl..."
 ##    for appartement in extract_stadgenoot():
 ##        appartement_l.append(appartement)
+    print "Extracting Pararius.nl..."
     for appartement in extract_pararius():
         appartement_l.append(appartement)
 
